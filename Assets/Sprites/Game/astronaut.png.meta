@@ -1,0 +1,4975 @@
+fileFormatVersion: 2
+guid: 687e4b77a058fb244940417224bb05ea
+timeCreated: 1524862552
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: astronaut_0
+    21300002: astronaut_1
+    21300004: astronaut_2
+    21300006: astronaut_3
+    21300008: astronaut_4
+    21300010: astronaut_5
+    21300012: astronaut_6
+    21300014: astronaut_7
+    21300016: astronaut_8
+    21300018: astronaut_9
+    21300020: astronaut_10
+    21300022: astronaut_11
+    21300024: astronaut_12
+    21300026: astronaut_13
+    21300028: astronaut_14
+    21300030: astronaut_15
+    21300032: astronaut_16
+    21300034: astronaut_17
+    21300036: astronaut_18
+    21300038: astronaut_19
+    21300040: astronaut_20
+    21300042: astronaut_21
+    21300044: astronaut_22
+    21300046: astronaut_23
+    21300048: astronaut_24
+    21300050: astronaut_25
+    21300052: astronaut_26
+    21300054: astronaut_27
+    21300056: astronaut_28
+    21300058: astronaut_29
+    21300060: astronaut_30
+    21300062: astronaut_31
+    21300064: astronaut_32
+    21300066: astronaut_33
+    21300068: astronaut_34
+    21300070: astronaut_35
+    21300072: astronaut_36
+    21300074: astronaut_37
+    21300076: astronaut_38
+    21300078: astronaut_39
+    21300080: astronaut_40
+    21300082: astronaut_41
+    21300084: astronaut_42
+    21300086: astronaut_43
+    21300088: astronaut_44
+    21300090: astronaut_45
+    21300092: astronaut_46
+    21300094: astronaut_47
+    21300096: astronaut_48
+    21300098: astronaut_49
+    21300100: astronaut_50
+    21300102: astronaut_51
+    21300104: astronaut_52
+    21300106: astronaut_53
+    21300108: astronaut_54
+    21300110: astronaut_55
+    21300112: astronaut_56
+    21300114: astronaut_57
+    21300116: astronaut_58
+    21300118: astronaut_59
+    21300120: astronaut_60
+    21300122: astronaut_61
+    21300124: astronaut_62
+    21300126: astronaut_63
+    21300128: astronaut_64
+    21300130: astronaut_65
+    21300132: astronaut_66
+    21300134: astronaut_67
+    21300136: astronaut_68
+    21300138: astronaut_69
+    21300140: astronaut_70
+    21300142: astronaut_71
+    21300144: astronaut_72
+    21300146: astronaut_73
+    21300148: astronaut_74
+    21300150: astronaut_75
+    21300152: astronaut_76
+    21300154: astronaut_77
+    21300156: astronaut_78
+    21300158: astronaut_79
+    21300160: astronaut_80
+    21300162: astronaut_81
+    21300164: astronaut_82
+    21300166: astronaut_83
+    21300168: astronaut_84
+    21300170: astronaut_85
+    21300172: astronaut_86
+    21300174: astronaut_87
+    21300176: astronaut_88
+    21300178: astronaut_89
+    21300180: astronaut_90
+    21300182: astronaut_91
+    21300184: astronaut_92
+    21300186: astronaut_93
+    21300188: astronaut_94
+    21300190: astronaut_95
+    21300192: astronaut_96
+    21300194: astronaut_97
+    21300196: astronaut_98
+    21300198: astronaut_99
+    21300200: astronaut_100
+    21300202: astronaut_101
+    21300204: astronaut_102
+    21300206: astronaut_103
+    21300208: astronaut_104
+    21300210: astronaut_105
+    21300212: astronaut_106
+    21300214: astronaut_107
+    21300216: astronaut_108
+    21300218: astronaut_109
+    21300220: astronaut_110
+    21300222: astronaut_111
+    21300224: astronaut_112
+    21300226: astronaut_113
+    21300228: astronaut_114
+    21300230: astronaut_115
+    21300232: astronaut_116
+    21300234: astronaut_117
+    21300236: astronaut_118
+    21300238: astronaut_119
+    21300240: astronaut_120
+    21300242: astronaut_121
+    21300244: astronaut_122
+    21300246: astronaut_123
+    21300248: astronaut_124
+    21300250: astronaut_125
+    21300252: astronaut_126
+    21300254: astronaut_127
+    21300256: astronaut_128
+    21300258: astronaut_129
+    21300260: astronaut_130
+    21300262: astronaut_131
+    21300264: astronaut_132
+    21300266: astronaut_133
+    21300268: astronaut_134
+    21300270: astronaut_135
+    21300272: astronaut_136
+    21300274: astronaut_137
+    21300276: astronaut_138
+    21300278: astronaut_139
+    21300280: astronaut_140
+    21300282: astronaut_141
+    21300284: astronaut_142
+    21300286: astronaut_143
+    21300288: astronaut_144
+    21300290: astronaut_145
+    21300292: astronaut_146
+    21300294: astronaut_147
+    21300296: astronaut_148
+    21300298: astronaut_149
+    21300300: astronaut_150
+    21300302: astronaut_151
+    21300304: astronaut_152
+    21300306: astronaut_153
+    21300308: astronaut_154
+    21300310: astronaut_155
+    21300312: astronaut_156
+    21300314: astronaut_157
+    21300316: astronaut_158
+    21300318: astronaut_159
+    21300320: astronaut_160
+    21300322: astronaut_161
+    21300324: astronaut_162
+    21300326: astronaut_163
+    21300328: astronaut_164
+    21300330: astronaut_165
+    21300332: astronaut_166
+    21300334: astronaut_167
+    21300336: astronaut_168
+    21300338: astronaut_169
+    21300340: astronaut_170
+    21300342: astronaut_171
+    21300344: astronaut_172
+    21300346: astronaut_173
+    21300348: astronaut_174
+    21300350: astronaut_175
+    21300352: astronaut_176
+    21300354: astronaut_177
+    21300356: astronaut_178
+    21300358: astronaut_179
+    21300360: astronaut_180
+    21300362: astronaut_181
+    21300364: astronaut_182
+    21300366: astronaut_183
+    21300368: astronaut_184
+    21300370: astronaut_185
+    21300372: astronaut_186
+    21300374: astronaut_187
+    21300376: astronaut_188
+    21300378: astronaut_189
+    21300380: astronaut_190
+    21300382: astronaut_191
+    21300384: astronaut_192
+    21300386: astronaut_193
+    21300388: astronaut_194
+    21300390: astronaut_195
+    21300392: astronaut_196
+    21300394: astronaut_197
+    21300396: astronaut_198
+    21300398: astronaut_199
+    21300400: astronaut_200
+    21300402: astronaut_201
+    21300404: astronaut_202
+    21300406: astronaut_203
+    21300408: astronaut_204
+    21300410: astronaut_205
+    21300412: astronaut_206
+    21300414: astronaut_207
+    21300416: astronaut_208
+    21300418: astronaut_209
+    21300420: astronaut_210
+    21300422: astronaut_211
+    21300424: astronaut_212
+    21300426: astronaut_213
+    21300428: astronaut_214
+    21300430: astronaut_215
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: astronaut_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28.5}
+        - {x: -23, y: 17.5}
+        - {x: -23, y: -23.5}
+        - {x: -17, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 26.5}
+        - {x: 19, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 28.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -24.5}
+        - {x: -17, y: -28.5}
+        - {x: 18, y: -28.5}
+        - {x: 23, y: -27.5}
+        - {x: 23, y: 20.5}
+        - {x: 19, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -23, y: 24.5}
+        - {x: -23, y: -22.5}
+        - {x: -13, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 27.5}
+        - {x: 22, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 28.5}
+        - {x: -23, y: 18.5}
+        - {x: -23, y: -26.5}
+        - {x: -17, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 17.5}
+        - {x: 20, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 19.5}
+        - {x: -23, y: -26.5}
+        - {x: -17, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -22.5}
+        - {x: 23, y: 25.5}
+        - {x: 16, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -22.5}
+        - {x: -13, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 26.5}
+        - {x: 18, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -23.5}
+        - {x: -18, y: -28.5}
+        - {x: 13, y: -28.5}
+        - {x: 23, y: -25.5}
+        - {x: 23, y: 23.5}
+        - {x: 13, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 966
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28}
+        - {x: -23, y: 21}
+        - {x: -23, y: -23}
+        - {x: -19, y: -28}
+        - {x: 15, y: -28}
+        - {x: 23, y: -25}
+        - {x: 23, y: 24}
+        - {x: 15, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 966
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -23, y: 21}
+        - {x: -23, y: -21}
+        - {x: -14, y: -28}
+        - {x: 15, y: -28}
+        - {x: 23, y: -21}
+        - {x: 23, y: 16}
+        - {x: 15, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 966
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 28}
+        - {x: -15.5, y: 28}
+        - {x: -22.5, y: 16}
+        - {x: -22.5, y: -26}
+        - {x: -16.5, y: -28}
+        - {x: 17.5, y: -28}
+        - {x: 21.5, y: -24}
+        - {x: 22.5, y: -24}
+        - {x: 22.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 966
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 28}
+        - {x: -22.5, y: 26}
+        - {x: -22.5, y: -28}
+        - {x: 22.5, y: -28}
+        - {x: 22.5, y: 20}
+        - {x: 14.5, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 966
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -23, y: 21}
+        - {x: -23, y: -21}
+        - {x: -14, y: -28}
+        - {x: 15, y: -28}
+        - {x: 23, y: -21}
+        - {x: 23, y: 16}
+        - {x: 15, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 966
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28}
+        - {x: -23, y: 21}
+        - {x: -23, y: -23}
+        - {x: -19, y: -28}
+        - {x: 15, y: -28}
+        - {x: 23, y: -25}
+        - {x: 23, y: 24}
+        - {x: 15, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 16.5}
+        - {x: 19, y: 22.5}
+        - {x: 11, y: 28.5}
+        - {x: -15, y: 28.5}
+        - {x: -23, y: 19.5}
+        - {x: -23, y: -27.5}
+        - {x: -21, y: -28.5}
+        - {x: 21, y: -28.5}
+        - {x: 23, y: -24.5}
+        - {x: 23, y: 11.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -22.5}
+        - {x: -13, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 26.5}
+        - {x: 18, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 19.5}
+        - {x: -23, y: -26.5}
+        - {x: -17, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -22.5}
+        - {x: 23, y: 25.5}
+        - {x: 16, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 28.5}
+        - {x: -23, y: 18.5}
+        - {x: -23, y: -26.5}
+        - {x: -17, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 17.5}
+        - {x: 20, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 965
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -23, y: 24.5}
+        - {x: -23, y: -22.5}
+        - {x: -13, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 27.5}
+        - {x: 22, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 960
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 31}
+        - {x: -23, y: 30}
+        - {x: -23, y: -27}
+        - {x: -18, y: -31}
+        - {x: 6, y: -31}
+        - {x: 23, y: -24}
+        - {x: 23, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 962
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30}
+        - {x: -23, y: 19}
+        - {x: -23, y: -18}
+        - {x: -15, y: -30}
+        - {x: 10, y: -30}
+        - {x: 23, y: -20}
+        - {x: 23, y: 22}
+        - {x: 16, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 896
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 31}
+        - {x: -23, y: 28}
+        - {x: -23, y: -30}
+        - {x: -22, y: -31}
+        - {x: 14, y: -31}
+        - {x: 22, y: -29}
+        - {x: 23, y: -28}
+        - {x: 23, y: 23}
+        - {x: 21, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 898
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 30}
+        - {x: -23, y: 22}
+        - {x: -23, y: -18}
+        - {x: -14, y: -30}
+        - {x: 23, y: -30}
+        - {x: 23, y: 19}
+        - {x: 16, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 898
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30}
+        - {x: -23, y: 23}
+        - {x: -23, y: -22}
+        - {x: -14, y: -30}
+        - {x: 11, y: -30}
+        - {x: 23, y: -21}
+        - {x: 23, y: 27}
+        - {x: 16, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 898
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 30}
+        - {x: -23, y: 27}
+        - {x: -23, y: -26}
+        - {x: -13, y: -30}
+        - {x: 18, y: -30}
+        - {x: 23, y: -21}
+        - {x: 23, y: 23}
+        - {x: 18, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 899
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 29.5}
+        - {x: -16, y: 29.5}
+        - {x: -23, y: 27.5}
+        - {x: -23, y: -26.5}
+        - {x: -17, y: -29.5}
+        - {x: 19, y: -29.5}
+        - {x: 23, y: -22.5}
+        - {x: 23, y: 22.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 899
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 29.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -23.5}
+        - {x: -20, y: -29.5}
+        - {x: 12, y: -29.5}
+        - {x: 23, y: -20.5}
+        - {x: 23, y: 19.5}
+        - {x: 15, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 899
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 29.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -26.5}
+        - {x: -15, y: -29.5}
+        - {x: 23, y: -29.5}
+        - {x: 23, y: 19.5}
+        - {x: 20, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 899
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 29.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -26.5}
+        - {x: -15, y: -29.5}
+        - {x: 19, y: -29.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 25.5}
+        - {x: 22, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 899
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29.5}
+        - {x: -23, y: 19.5}
+        - {x: -23, y: -27.5}
+        - {x: -20, y: -29.5}
+        - {x: 15, y: -29.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 19.5}
+        - {x: 15, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 899
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 29.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -26.5}
+        - {x: -15, y: -29.5}
+        - {x: 23, y: -29.5}
+        - {x: 23, y: 19.5}
+        - {x: 20, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_30
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 899
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 29.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -23.5}
+        - {x: -20, y: -29.5}
+        - {x: 12, y: -29.5}
+        - {x: 23, y: -20.5}
+        - {x: 23, y: 19.5}
+        - {x: 15, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_31
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 899
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 29.5}
+        - {x: -23, y: 27.5}
+        - {x: -23, y: -22.5}
+        - {x: -13, y: -29.5}
+        - {x: 11, y: -29.5}
+        - {x: 23, y: -20.5}
+        - {x: 23, y: 26.5}
+        - {x: 17, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_32
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 896
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 31}
+        - {x: -23, y: 20}
+        - {x: -23, y: -26}
+        - {x: -16, y: -31}
+        - {x: 9, y: -31}
+        - {x: 23, y: -19}
+        - {x: 23, y: 23}
+        - {x: 13, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_33
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 896
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 31}
+        - {x: -23, y: 24}
+        - {x: -23, y: -26}
+        - {x: -14, y: -31}
+        - {x: 20, y: -31}
+        - {x: 23, y: -25}
+        - {x: 23, y: 29}
+        - {x: 18, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_34
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 898
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30}
+        - {x: -23, y: 21}
+        - {x: -23, y: -19}
+        - {x: -11, y: -30}
+        - {x: 12, y: -30}
+        - {x: 23, y: -21}
+        - {x: 23, y: 22}
+        - {x: 16, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_35
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 898
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 30}
+        - {x: -23, y: 27}
+        - {x: -23, y: -30}
+        - {x: 12, y: -30}
+        - {x: 23, y: -24}
+        - {x: 23, y: 19}
+        - {x: 17, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_36
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 892
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 33}
+        - {x: -18.5, y: -21}
+        - {x: -14.5, y: -33}
+        - {x: 8.5, y: -33}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 30}
+        - {x: 15.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_37
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 892
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 33}
+        - {x: -18.5, y: -21}
+        - {x: -14.5, y: -33}
+        - {x: 8.5, y: -33}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 30}
+        - {x: 15.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_38
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 892
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 33}
+        - {x: -19, y: -24}
+        - {x: -13, y: -31}
+        - {x: -7, y: -33}
+        - {x: 11, y: -33}
+        - {x: 19, y: -28}
+        - {x: 19, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_39
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 892
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 33}
+        - {x: -19, y: 33}
+        - {x: -19, y: -24}
+        - {x: -12, y: -32}
+        - {x: -9, y: -33}
+        - {x: 6, y: -33}
+        - {x: 10, y: -27}
+        - {x: 19, y: -13}
+        - {x: 19, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_40
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 892
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 33}
+        - {x: -19, y: -21}
+        - {x: -15, y: -33}
+        - {x: 16, y: -33}
+        - {x: 19, y: -19}
+        - {x: 19, y: 32}
+        - {x: 18, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 822
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 33}
+        - {x: -19, y: 30}
+        - {x: -19, y: -21}
+        - {x: -11, y: -30}
+        - {x: -6, y: -33}
+        - {x: 8, y: -33}
+        - {x: 19, y: -16}
+        - {x: 19, y: 26}
+        - {x: 11, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 823
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 32.5}
+        - {x: -19, y: 27.5}
+        - {x: -19, y: -24.5}
+        - {x: -5, y: -32.5}
+        - {x: 13, y: -32.5}
+        - {x: 19, y: -26.5}
+        - {x: 19, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 823
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 32.5}
+        - {x: -18.5, y: 26.5}
+        - {x: -18.5, y: -10.5}
+        - {x: -17.5, y: -17.5}
+        - {x: -11.5, y: -25.5}
+        - {x: -5.5, y: -32.5}
+        - {x: 9.5, y: -32.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 18.5, y: 30.5}
+        - {x: 14.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 823
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 32.5}
+        - {x: -18.5, y: 28.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -5.5, y: -32.5}
+        - {x: 10.5, y: -32.5}
+        - {x: 18.5, y: -26.5}
+        - {x: 18.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 823
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 32.5}
+        - {x: -18.5, y: 30.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -5.5, y: -32.5}
+        - {x: 8.5, y: -32.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 27.5}
+        - {x: 16.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 823
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 32.5}
+        - {x: -18.5, y: 30.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -5.5, y: -32.5}
+        - {x: 8.5, y: -32.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 27.5}
+        - {x: 16.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 823
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 32.5}
+        - {x: -18.5, y: 28.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -9.5, y: -32.5}
+        - {x: 7.5, y: -32.5}
+        - {x: 13.5, y: -30.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 18.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 823
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 32.5}
+        - {x: -18.5, y: 26.5}
+        - {x: -18.5, y: -10.5}
+        - {x: -17.5, y: -17.5}
+        - {x: -11.5, y: -25.5}
+        - {x: -5.5, y: -32.5}
+        - {x: 9.5, y: -32.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 18.5, y: 30.5}
+        - {x: 14.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_49
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 823
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32.5}
+        - {x: -20, y: 27.5}
+        - {x: -20, y: -26.5}
+        - {x: -12, y: -32.5}
+        - {x: 20, y: -32.5}
+        - {x: 20, y: 31.5}
+        - {x: 17, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 822
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 33}
+        - {x: -19, y: 30}
+        - {x: -19, y: -21}
+        - {x: -11, y: -30}
+        - {x: -6, y: -33}
+        - {x: 8, y: -33}
+        - {x: 19, y: -16}
+        - {x: 19, y: 26}
+        - {x: 11, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 822
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 33}
+        - {x: -19, y: -21}
+        - {x: -15, y: -33}
+        - {x: 16, y: -33}
+        - {x: 19, y: -19}
+        - {x: 19, y: 32}
+        - {x: 18, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_52
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 822
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 33}
+        - {x: -19, y: 33}
+        - {x: -19, y: -24}
+        - {x: -12, y: -32}
+        - {x: -9, y: -33}
+        - {x: 6, y: -33}
+        - {x: 10, y: -27}
+        - {x: 19, y: -13}
+        - {x: 19, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 822
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 33}
+        - {x: -19, y: -24}
+        - {x: -13, y: -31}
+        - {x: -7, y: -33}
+        - {x: 11, y: -33}
+        - {x: 19, y: -28}
+        - {x: 19, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_54
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 813
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 37.5}
+        - {x: -22.5, y: 27.5}
+        - {x: -22.5, y: -34.5}
+        - {x: -14.5, y: -37.5}
+        - {x: 19.5, y: -37.5}
+        - {x: 22.5, y: -34.5}
+        - {x: 22.5, y: 32.5}
+        - {x: 20.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_55
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 813
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 37.5}
+        - {x: -22.5, y: -23.5}
+        - {x: -19.5, y: -37.5}
+        - {x: 11.5, y: -37.5}
+        - {x: 22.5, y: -19.5}
+        - {x: 22.5, y: 34.5}
+        - {x: 15.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 812
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 38}
+        - {x: -23, y: 34}
+        - {x: -23, y: -19}
+        - {x: -15, y: -38}
+        - {x: 21, y: -38}
+        - {x: 23, y: -26}
+        - {x: 23, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_57
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 812
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 38}
+        - {x: -24, y: 38}
+        - {x: -24, y: -23}
+        - {x: -20, y: -38}
+        - {x: 11, y: -38}
+        - {x: 24, y: -13}
+        - {x: 24, y: 22}
+        - {x: 23, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_58
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 814
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 37}
+        - {x: -24, y: -23}
+        - {x: -5, y: -37}
+        - {x: 10, y: -37}
+        - {x: 24, y: -15}
+        - {x: 24, y: 35}
+        - {x: 18, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_59
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 817
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 35.5}
+        - {x: -23.5, y: 33.5}
+        - {x: -23.5, y: -16.5}
+        - {x: -7.5, y: -35.5}
+        - {x: 11.5, y: -35.5}
+        - {x: 23.5, y: -19.5}
+        - {x: 23.5, y: 27.5}
+        - {x: 16.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_60
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 819
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 34.5}
+        - {x: -22, y: 31.5}
+        - {x: -22, y: -22.5}
+        - {x: -2, y: -34.5}
+        - {x: 13, y: -34.5}
+        - {x: 22, y: -13.5}
+        - {x: 22, y: 30.5}
+        - {x: 11, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_61
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 813
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -22.5, y: 32.5}
+        - {x: -22.5, y: -17.5}
+        - {x: -20.5, y: -27.5}
+        - {x: -8.5, y: -37.5}
+        - {x: 18.5, y: -37.5}
+        - {x: 22.5, y: -14.5}
+        - {x: 22.5, y: 31.5}
+        - {x: 14.5, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_62
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 810
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 39}
+        - {x: -22.5, y: 31}
+        - {x: -22.5, y: -26}
+        - {x: -10.5, y: -39}
+        - {x: 16.5, y: -39}
+        - {x: 17.5, y: -38}
+        - {x: 22.5, y: -18}
+        - {x: 22.5, y: 30}
+        - {x: 10.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 727
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 39.5}
+        - {x: -22, y: 32.5}
+        - {x: -22, y: -20.5}
+        - {x: -21, y: -26.5}
+        - {x: -5, y: -39.5}
+        - {x: 15, y: -39.5}
+        - {x: 22, y: -23.5}
+        - {x: 22, y: 30.5}
+        - {x: 12, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 727
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 39.5}
+        - {x: -22.5, y: 31.5}
+        - {x: -22.5, y: -24.5}
+        - {x: -13.5, y: -39.5}
+        - {x: 18.5, y: -39.5}
+        - {x: 22.5, y: -33.5}
+        - {x: 22.5, y: 36.5}
+        - {x: 21.5, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 729
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 38.5}
+        - {x: -23, y: -33.5}
+        - {x: -22, y: -38.5}
+        - {x: 21, y: -38.5}
+        - {x: 23, y: -25.5}
+        - {x: 23, y: 36.5}
+        - {x: 20, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 729
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 38.5}
+        - {x: -23.5, y: -38.5}
+        - {x: 9.5, y: -38.5}
+        - {x: 23.5, y: -29.5}
+        - {x: 23.5, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 732
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 37}
+        - {x: -23, y: 36}
+        - {x: -24, y: 31}
+        - {x: -24, y: -18}
+        - {x: -14, y: -37}
+        - {x: 24, y: -37}
+        - {x: 24, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_68
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 737
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 34.5}
+        - {x: -23, y: 27.5}
+        - {x: -23, y: -17.5}
+        - {x: -14, y: -34.5}
+        - {x: 5, y: -34.5}
+        - {x: 18, y: -28.5}
+        - {x: 23, y: -19.5}
+        - {x: 23, y: 31.5}
+        - {x: 21, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_69
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 739
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 34.5}
+        - {x: -22, y: 19.5}
+        - {x: -22, y: -17.5}
+        - {x: -14, y: -34.5}
+        - {x: 11, y: -34.5}
+        - {x: 18, y: -30.5}
+        - {x: 22, y: -24.5}
+        - {x: 22, y: 27.5}
+        - {x: 20, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 731
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 37.5}
+        - {x: -18.5, y: 36.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -18.5}
+        - {x: -16.5, y: -37.5}
+        - {x: 4.5, y: -37.5}
+        - {x: 23.5, y: -27.5}
+        - {x: 23.5, y: 35.5}
+        - {x: 18.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_71
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 733
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 36.5}
+        - {x: -23.5, y: 32.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -18.5, y: -36.5}
+        - {x: 6.5, y: -36.5}
+        - {x: 23.5, y: -28.5}
+        - {x: 23.5, y: 31.5}
+        - {x: 19.5, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_72
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 736
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 35}
+        - {x: -26, y: 25}
+        - {x: -26, y: -31}
+        - {x: -24, y: -35}
+        - {x: 24, y: -35}
+        - {x: 26, y: -34}
+        - {x: 26, y: 33}
+        - {x: 21, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_73
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 737
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 34.5}
+        - {x: -26.5, y: 24.5}
+        - {x: -26.5, y: -34.5}
+        - {x: 26.5, y: -34.5}
+        - {x: 26.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_74
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 738
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 34}
+        - {x: -26.5, y: 30}
+        - {x: -26.5, y: -32}
+        - {x: -25.5, y: -34}
+        - {x: 26.5, y: -34}
+        - {x: 26.5, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_75
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 738
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 34}
+        - {x: -25, y: 22}
+        - {x: -26, y: 16}
+        - {x: -26, y: -31}
+        - {x: -19, y: -34}
+        - {x: 22, y: -34}
+        - {x: 26, y: -29}
+        - {x: 26, y: 26}
+        - {x: 17, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_76
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 741
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 32.5}
+        - {x: -25.5, y: 20.5}
+        - {x: -25.5, y: -32.5}
+        - {x: 25.5, y: -32.5}
+        - {x: 25.5, y: 30.5}
+        - {x: 16.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_77
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 742
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 32}
+        - {x: -24, y: 21}
+        - {x: -24, y: -29}
+        - {x: -22, y: -32}
+        - {x: -15, y: -28}
+        - {x: -12, y: -25}
+        - {x: 1, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 30}
+        - {x: 20, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_78
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 747
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 29.5}
+        - {x: -23.5, y: -29.5}
+        - {x: 23.5, y: -29.5}
+        - {x: 23.5, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_79
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 739
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 33.5}
+        - {x: -24, y: 20.5}
+        - {x: -26, y: 0.5}
+        - {x: -26, y: -33.5}
+        - {x: 26, y: -33.5}
+        - {x: 26, y: 25.5}
+        - {x: 23, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_80
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 736
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 35}
+        - {x: -26, y: 32}
+        - {x: -26, y: -34}
+        - {x: -25, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 33}
+        - {x: 24, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_81
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 735
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 35.5}
+        - {x: -26.5, y: 33.5}
+        - {x: -26.5, y: -35.5}
+        - {x: 26.5, y: -35.5}
+        - {x: 26.5, y: 30.5}
+        - {x: 21.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 651
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 36}
+        - {x: -27, y: 34}
+        - {x: -27, y: -36}
+        - {x: 27, y: -36}
+        - {x: 27, y: 29}
+        - {x: 23, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_83
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 652
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 35.5}
+        - {x: -27, y: 25.5}
+        - {x: -27, y: -35.5}
+        - {x: 26, y: -35.5}
+        - {x: 27, y: -34.5}
+        - {x: 27, y: 22.5}
+        - {x: 16, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_84
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 653
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 35}
+        - {x: -27, y: -35}
+        - {x: 23, y: -35}
+        - {x: 27, y: -30}
+        - {x: 27, y: 32}
+        - {x: 18, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_85
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 655
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 34}
+        - {x: -24, y: 34}
+        - {x: -26, y: 30}
+        - {x: -26, y: -34}
+        - {x: 17, y: -34}
+        - {x: 26, y: -32}
+        - {x: 26, y: 10}
+        - {x: 24, y: 21}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_86
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 660
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 31.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -24.5, y: -31.5}
+        - {x: 24.5, y: -31.5}
+        - {x: 24.5, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_87
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 662
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 30.5}
+        - {x: -23.5, y: 27.5}
+        - {x: -23.5, y: -30.5}
+        - {x: 23.5, y: -30.5}
+        - {x: 23.5, y: 26.5}
+        - {x: 14.5, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_88
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 655
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 34}
+        - {x: -26, y: 30}
+        - {x: -26, y: -31}
+        - {x: -23, y: -34}
+        - {x: 26, y: -34}
+        - {x: 26, y: 32}
+        - {x: 22, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_89
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 657
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 33}
+        - {x: -26, y: 30}
+        - {x: -26, y: -33}
+        - {x: 26, y: -33}
+        - {x: 26, y: 32}
+        - {x: 23, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_90
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 649
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 37}
+        - {x: -23.5, y: -37}
+        - {x: 18.5, y: -37}
+        - {x: 23.5, y: -27}
+        - {x: 23.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_91
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 650
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 36.5}
+        - {x: -14.5, y: 36.5}
+        - {x: -22.5, y: 32.5}
+        - {x: -22.5, y: -33.5}
+        - {x: -19.5, y: -36.5}
+        - {x: 16.5, y: -36.5}
+        - {x: 22.5, y: -30.5}
+        - {x: 22.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_92
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 652
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35.5}
+        - {x: -22, y: 33.5}
+        - {x: -22, y: -31.5}
+        - {x: -19, y: -35.5}
+        - {x: 22, y: -35.5}
+        - {x: 22, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_93
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 654
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 34.5}
+        - {x: -21, y: 33.5}
+        - {x: -21, y: -34.5}
+        - {x: 18, y: -34.5}
+        - {x: 21, y: -30.5}
+        - {x: 21, y: 28.5}
+        - {x: 13, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_94
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 656
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 33.5}
+        - {x: -16.5, y: 33.5}
+        - {x: -20.5, y: 29.5}
+        - {x: -20.5, y: -22.5}
+        - {x: -16.5, y: -28.5}
+        - {x: -12.5, y: -29.5}
+        - {x: -5.5, y: -33.5}
+        - {x: 10.5, y: -33.5}
+        - {x: 18.5, y: -32.5}
+        - {x: 20.5, y: -29.5}
+        - {x: 20.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_95
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 661
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 31}
+        - {x: -20.5, y: 24}
+        - {x: -20.5, y: -23}
+        - {x: -19.5, y: -24}
+        - {x: -9.5, y: -29}
+        - {x: -6.5, y: -31}
+        - {x: 19.5, y: -31}
+        - {x: 20.5, y: -29}
+        - {x: 20.5, y: 22}
+        - {x: 18.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_96
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 665
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 29}
+        - {x: -22, y: -25}
+        - {x: -18, y: -29}
+        - {x: 22, y: -29}
+        - {x: 22, y: 25}
+        - {x: 21, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_97
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 656
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 33.5}
+        - {x: -17.5, y: 29.5}
+        - {x: -25.5, y: 3.5}
+        - {x: -25.5, y: -18.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -10.5, y: -31.5}
+        - {x: -5.5, y: -33.5}
+        - {x: 22.5, y: -33.5}
+        - {x: 25.5, y: -30.5}
+        - {x: 25.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 653
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 35}
+        - {x: -27.5, y: 8}
+        - {x: -27.5, y: -22}
+        - {x: -21.5, y: -35}
+        - {x: 27.5, y: -35}
+        - {x: 27.5, y: 32}
+        - {x: 21.5, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_99
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 651
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 36}
+        - {x: -25, y: 13}
+        - {x: -26, y: 8}
+        - {x: -26, y: -24}
+        - {x: -11, y: -36}
+        - {x: 23, y: -36}
+        - {x: 26, y: -34}
+        - {x: 26, y: 31}
+        - {x: 19, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_100
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 649
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 37}
+        - {x: -22, y: 26}
+        - {x: -25, y: -1}
+        - {x: -25, y: -24}
+        - {x: -16, y: -37}
+        - {x: 25, y: -37}
+        - {x: 25, y: 35}
+        - {x: 19, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 571
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 37}
+        - {x: -22.5, y: -37}
+        - {x: 22.5, y: -37}
+        - {x: 22.5, y: 36}
+        - {x: 16.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_102
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 571
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 37}
+        - {x: -21.5, y: -37}
+        - {x: 21.5, y: -37}
+        - {x: 21.5, y: 33}
+        - {x: 18.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 572
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 36.5}
+        - {x: -20.5, y: -36.5}
+        - {x: 19.5, y: -36.5}
+        - {x: 20.5, y: -34.5}
+        - {x: 20.5, y: 32.5}
+        - {x: 14.5, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 577
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 34}
+        - {x: -20, y: 30}
+        - {x: -20, y: -32}
+        - {x: -8, y: -34}
+        - {x: 19, y: -34}
+        - {x: 20, y: -33}
+        - {x: 20, y: 32}
+        - {x: 15, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_105
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 579
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 33}
+        - {x: -19.5, y: 26}
+        - {x: -20.5, y: 15}
+        - {x: -20.5, y: -26}
+        - {x: -17.5, y: -28}
+        - {x: -6.5, y: -33}
+        - {x: 20.5, y: -33}
+        - {x: 20.5, y: 31}
+        - {x: 16.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_106
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 572
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 36.5}
+        - {x: -24, y: 30.5}
+        - {x: -24, y: -27.5}
+        - {x: -21, y: -30.5}
+        - {x: -7, y: -36.5}
+        - {x: 24, y: -36.5}
+        - {x: 24, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_107
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 571
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 37}
+        - {x: -14, y: 32}
+        - {x: -25, y: 15}
+        - {x: -25, y: -32}
+        - {x: -19, y: -37}
+        - {x: 25, y: -37}
+        - {x: 25, y: 34}
+        - {x: 20, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_108
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 588
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 28.5}
+        - {x: -23, y: 18.5}
+        - {x: -23, y: -26.5}
+        - {x: -17, y: -28.5}
+        - {x: 18, y: -28.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 18.5}
+        - {x: 14, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_109
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 588
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 28.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -28.5}
+        - {x: 17, y: -28.5}
+        - {x: 23, y: -26.5}
+        - {x: 23, y: 19.5}
+        - {x: 12, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_110
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 588
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -26.5}
+        - {x: -15, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -24.5}
+        - {x: 23, y: 24.5}
+        - {x: 15, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_111
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 588
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28.5}
+        - {x: -23, y: 17.5}
+        - {x: -23, y: -26.5}
+        - {x: -17, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 21.5}
+        - {x: 21, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_112
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 588
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 19.5}
+        - {x: -23, y: -26.5}
+        - {x: -17, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -22.5}
+        - {x: 23, y: 25.5}
+        - {x: 16, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_113
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 588
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -22.5}
+        - {x: -13, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 26.5}
+        - {x: 18, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_114
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 588
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -23, y: 19.5}
+        - {x: -23, y: -22.5}
+        - {x: -14, y: -28.5}
+        - {x: 16, y: -28.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 19.5}
+        - {x: 12, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_115
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 589
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: -23, y: 27}
+        - {x: -23, y: -25}
+        - {x: -21, y: -28}
+        - {x: 18, y: -28}
+        - {x: 23, y: -26}
+        - {x: 23, y: 21}
+        - {x: 21, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_116
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 589
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28}
+        - {x: -23, y: 23}
+        - {x: -23, y: -25}
+        - {x: -19, y: -28}
+        - {x: 15, y: -28}
+        - {x: 23, y: -26}
+        - {x: 23, y: 23}
+        - {x: 19, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_117
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 589
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 28}
+        - {x: -12.5, y: 28}
+        - {x: -22.5, y: 19}
+        - {x: -22.5, y: -23}
+        - {x: -14.5, y: -28}
+        - {x: 12.5, y: -28}
+        - {x: 20.5, y: -22}
+        - {x: 22.5, y: -20}
+        - {x: 22.5, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_118
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 589
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 28}
+        - {x: -18.5, y: 28}
+        - {x: -22.5, y: 22}
+        - {x: -22.5, y: -23}
+        - {x: -14.5, y: -28}
+        - {x: 12.5, y: -28}
+        - {x: 20.5, y: -22}
+        - {x: 22.5, y: -20}
+        - {x: 22.5, y: 25}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_119
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 589
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28}
+        - {x: -23, y: 23}
+        - {x: -23, y: -25}
+        - {x: -19, y: -28}
+        - {x: 15, y: -28}
+        - {x: 23, y: -26}
+        - {x: 23, y: 23}
+        - {x: 19, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_120
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 589
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: -23, y: 27}
+        - {x: -23, y: -25}
+        - {x: -21, y: -28}
+        - {x: 18, y: -28}
+        - {x: 23, y: -26}
+        - {x: 23, y: 21}
+        - {x: 21, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_121
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 510
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -22.5}
+        - {x: -14, y: -28.5}
+        - {x: 18, y: -28.5}
+        - {x: 23, y: -27.5}
+        - {x: 23, y: 25.5}
+        - {x: 15, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_122
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 510
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -22.5}
+        - {x: -13, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 26.5}
+        - {x: 18, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_123
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 510
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 19.5}
+        - {x: -23, y: -26.5}
+        - {x: -17, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -22.5}
+        - {x: 23, y: 25.5}
+        - {x: 16, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_124
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 510
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 28.5}
+        - {x: -23, y: 18.5}
+        - {x: -23, y: -24.5}
+        - {x: -20, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 21.5}
+        - {x: 14, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_125
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 510
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -26.5}
+        - {x: -15, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 23, y: -24.5}
+        - {x: 23, y: 24.5}
+        - {x: 15, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_126
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 507
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 30}
+        - {x: -23, y: 22}
+        - {x: -23, y: -23}
+        - {x: -12, y: -30}
+        - {x: 17, y: -30}
+        - {x: 23, y: -27}
+        - {x: 23, y: 27}
+        - {x: 22, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_127
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 507
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 30}
+        - {x: -23, y: 22}
+        - {x: -23, y: -18}
+        - {x: -16, y: -30}
+        - {x: 19, y: -30}
+        - {x: 22, y: -29}
+        - {x: 23, y: -25}
+        - {x: 23, y: 20}
+        - {x: 16, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_128
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 507
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 30}
+        - {x: -23, y: 27}
+        - {x: -23, y: -30}
+        - {x: 12, y: -30}
+        - {x: 23, y: -24}
+        - {x: 23, y: 19}
+        - {x: 17, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_129
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 507
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 30}
+        - {x: -23, y: 25}
+        - {x: -23, y: -18}
+        - {x: -12, y: -30}
+        - {x: 22, y: -30}
+        - {x: 23, y: -27}
+        - {x: 23, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_130
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 507
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 30}
+        - {x: -23, y: 22}
+        - {x: -23, y: -23}
+        - {x: -17, y: -30}
+        - {x: 14, y: -30}
+        - {x: 19, y: -28}
+        - {x: 23, y: -26}
+        - {x: 23, y: 26}
+        - {x: 22, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_131
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 507
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 30}
+        - {x: -23, y: 27}
+        - {x: -23, y: -26}
+        - {x: -13, y: -30}
+        - {x: 18, y: -30}
+        - {x: 23, y: -21}
+        - {x: 23, y: 23}
+        - {x: 18, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_132
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 508
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 29.5}
+        - {x: -19, y: 29.5}
+        - {x: -23, y: 15.5}
+        - {x: -23, y: -23.5}
+        - {x: -15, y: -29.5}
+        - {x: 16, y: -29.5}
+        - {x: 19, y: -26.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_133
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 508
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 29.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -23.5}
+        - {x: -20, y: -29.5}
+        - {x: 12, y: -29.5}
+        - {x: 23, y: -20.5}
+        - {x: 23, y: 19.5}
+        - {x: 15, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_134
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 508
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 29.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -26.5}
+        - {x: -15, y: -29.5}
+        - {x: 23, y: -29.5}
+        - {x: 23, y: 19.5}
+        - {x: 20, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_135
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 508
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 29.5}
+        - {x: -22, y: 21.5}
+        - {x: -23, y: 16.5}
+        - {x: -23, y: -21.5}
+        - {x: -19, y: -29.5}
+        - {x: 17, y: -29.5}
+        - {x: 23, y: -27.5}
+        - {x: 23, y: 21.5}
+        - {x: 13, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_136
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 508
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 29.5}
+        - {x: -23, y: 18.5}
+        - {x: -23, y: -19.5}
+        - {x: -12, y: -29.5}
+        - {x: 17, y: -29.5}
+        - {x: 23, y: -19.5}
+        - {x: 23, y: 19.5}
+        - {x: 15, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_137
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 508
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 29.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -26.5}
+        - {x: -15, y: -29.5}
+        - {x: 23, y: -29.5}
+        - {x: 23, y: 19.5}
+        - {x: 20, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_138
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 508
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -20.5}
+        - {x: -17, y: -29.5}
+        - {x: 19, y: -29.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 24.5}
+        - {x: 21, y: 29.5}
+        - {x: -15, y: 29.5}
+        - {x: -23, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_139
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 508
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 29.5}
+        - {x: -23, y: 27.5}
+        - {x: -23, y: -22.5}
+        - {x: -13, y: -29.5}
+        - {x: 11, y: -29.5}
+        - {x: 23, y: -20.5}
+        - {x: 23, y: 26.5}
+        - {x: 17, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_140
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 507
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 30}
+        - {x: -22, y: 22}
+        - {x: -23, y: 17}
+        - {x: -23, y: -25}
+        - {x: -14, y: -30}
+        - {x: 21, y: -30}
+        - {x: 23, y: -28}
+        - {x: 23, y: 21}
+        - {x: 21, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_141
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 443
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 30}
+        - {x: -23, y: 22}
+        - {x: -23, y: -23}
+        - {x: -17, y: -30}
+        - {x: 14, y: -30}
+        - {x: 19, y: -28}
+        - {x: 23, y: -26}
+        - {x: 23, y: 26}
+        - {x: 22, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_142
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 443
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 30}
+        - {x: -23, y: 23}
+        - {x: -23, y: -19}
+        - {x: -11, y: -30}
+        - {x: 21, y: -30}
+        - {x: 23, y: -23}
+        - {x: 23, y: 29}
+        - {x: 18, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_143
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 443
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 30}
+        - {x: -23, y: 27}
+        - {x: -23, y: -30}
+        - {x: 12, y: -30}
+        - {x: 23, y: -24}
+        - {x: 23, y: 19}
+        - {x: 17, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_144
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 437
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 33}
+        - {x: -18.5, y: -21}
+        - {x: -14.5, y: -33}
+        - {x: 8.5, y: -33}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 30}
+        - {x: 15.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_145
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 437
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 33}
+        - {x: -18.5, y: 30}
+        - {x: -18.5, y: -11}
+        - {x: -14.5, y: -33}
+        - {x: 8.5, y: -33}
+        - {x: 18.5, y: -18}
+        - {x: 18.5, y: 31}
+        - {x: 12.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_146
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 437
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 33}
+        - {x: -19, y: 33}
+        - {x: -19, y: -30}
+        - {x: -9, y: -33}
+        - {x: 6, y: -33}
+        - {x: 11, y: -26}
+        - {x: 19, y: -13}
+        - {x: 19, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_147
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 437
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 33}
+        - {x: -19, y: 33}
+        - {x: -19, y: -24}
+        - {x: -12, y: -32}
+        - {x: -9, y: -33}
+        - {x: 6, y: -33}
+        - {x: 10, y: -27}
+        - {x: 19, y: -13}
+        - {x: 19, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_148
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 437
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 33}
+        - {x: -19, y: -30}
+        - {x: -9, y: -33}
+        - {x: 11, y: -33}
+        - {x: 19, y: -27}
+        - {x: 19, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_149
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 437
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 33}
+        - {x: -19, y: 32}
+        - {x: -19, y: -31}
+        - {x: -18, y: -33}
+        - {x: 7, y: -33}
+        - {x: 19, y: -16}
+        - {x: 19, y: 26}
+        - {x: 11, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_150
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 438
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32.5}
+        - {x: -19, y: 27.5}
+        - {x: -19, y: -8.5}
+        - {x: -16, y: -22.5}
+        - {x: -11, y: -29.5}
+        - {x: -5, y: -32.5}
+        - {x: 10, y: -32.5}
+        - {x: 19, y: -18.5}
+        - {x: 19, y: 26.5}
+        - {x: 12, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_151
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 438
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 32.5}
+        - {x: -18.5, y: -26.5}
+        - {x: -12.5, y: -32.5}
+        - {x: 12.5, y: -32.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 18.5, y: 30.5}
+        - {x: 14.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_152
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 438
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 32.5}
+        - {x: -18.5, y: 28.5}
+        - {x: -18.5, y: -21.5}
+        - {x: -12.5, y: -32.5}
+        - {x: 13.5, y: -32.5}
+        - {x: 18.5, y: -30.5}
+        - {x: 18.5, y: 29.5}
+        - {x: 14.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_153
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 438
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 32.5}
+        - {x: -18.5, y: 30.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -5.5, y: -32.5}
+        - {x: 8.5, y: -32.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 27.5}
+        - {x: 16.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_154
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 438
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 32.5}
+        - {x: -18.5, y: 30.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -5.5, y: -32.5}
+        - {x: 8.5, y: -32.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 27.5}
+        - {x: 16.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_155
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 438
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 32.5}
+        - {x: -18.5, y: 28.5}
+        - {x: -18.5, y: -21.5}
+        - {x: -12.5, y: -32.5}
+        - {x: 13.5, y: -32.5}
+        - {x: 18.5, y: -30.5}
+        - {x: 18.5, y: 29.5}
+        - {x: 14.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_156
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 438
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32.5}
+        - {x: -20, y: -25.5}
+        - {x: -12, y: -32.5}
+        - {x: 12, y: -32.5}
+        - {x: 20, y: -6.5}
+        - {x: 20, y: 24.5}
+        - {x: 17, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_157
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 438
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 32.5}
+        - {x: -19, y: -28.5}
+        - {x: -11, y: -32.5}
+        - {x: 9, y: -32.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 26.5}
+        - {x: 12, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_158
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 437
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 33}
+        - {x: -19, y: 32}
+        - {x: -19, y: -31}
+        - {x: -18, y: -33}
+        - {x: 7, y: -33}
+        - {x: 19, y: -16}
+        - {x: 19, y: 26}
+        - {x: 11, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_159
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 437
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 33}
+        - {x: -19, y: -30}
+        - {x: -9, y: -33}
+        - {x: 11, y: -33}
+        - {x: 19, y: -27}
+        - {x: 19, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_160
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 437
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 33}
+        - {x: -19, y: 33}
+        - {x: -19, y: -24}
+        - {x: -12, y: -32}
+        - {x: -9, y: -33}
+        - {x: 6, y: -33}
+        - {x: 10, y: -27}
+        - {x: 19, y: -13}
+        - {x: 19, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_161
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 437
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 33}
+        - {x: -19, y: 33}
+        - {x: -19, y: -30}
+        - {x: -9, y: -33}
+        - {x: 6, y: -33}
+        - {x: 11, y: -26}
+        - {x: 19, y: -13}
+        - {x: 19, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_162
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 428
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 37.5}
+        - {x: -22.5, y: 35.5}
+        - {x: -22.5, y: -24.5}
+        - {x: -16.5, y: -37.5}
+        - {x: 22.5, y: -37.5}
+        - {x: 22.5, y: 36.5}
+        - {x: 16.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_163
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 428
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 37.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -18.5, y: -37.5}
+        - {x: 11.5, y: -37.5}
+        - {x: 22.5, y: -18.5}
+        - {x: 22.5, y: 34.5}
+        - {x: 15.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_164
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 348
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 38}
+        - {x: -23, y: 34}
+        - {x: -23, y: -24}
+        - {x: -11, y: -38}
+        - {x: 21, y: -38}
+        - {x: 23, y: -24}
+        - {x: 23, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_165
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 348
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 38}
+        - {x: -16, y: 38}
+        - {x: -24, y: 34}
+        - {x: -24, y: -22}
+        - {x: -14, y: -34}
+        - {x: -5, y: -38}
+        - {x: 13, y: -38}
+        - {x: 24, y: -14}
+        - {x: 24, y: 21}
+        - {x: 21, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_166
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 350
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 37}
+        - {x: -24, y: 35}
+        - {x: -24, y: -18}
+        - {x: -12, y: -37}
+        - {x: 10, y: -37}
+        - {x: 21, y: -28}
+        - {x: 24, y: -21}
+        - {x: 24, y: 23}
+        - {x: 18, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_167
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 353
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 35.5}
+        - {x: -23.5, y: 34.5}
+        - {x: -23.5, y: -23.5}
+        - {x: -5.5, y: -35.5}
+        - {x: 10.5, y: -35.5}
+        - {x: 19.5, y: -30.5}
+        - {x: 23.5, y: -13.5}
+        - {x: 23.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_168
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 355
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 34.5}
+        - {x: -22, y: 31.5}
+        - {x: -22, y: -22.5}
+        - {x: -2, y: -34.5}
+        - {x: 13, y: -34.5}
+        - {x: 22, y: -13.5}
+        - {x: 22, y: 30.5}
+        - {x: 11, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_169
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 349
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 37.5}
+        - {x: -22.5, y: 36.5}
+        - {x: -22.5, y: -18.5}
+        - {x: -10.5, y: -37.5}
+        - {x: 20.5, y: -37.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 22.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_170
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 346
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 39}
+        - {x: -22.5, y: 34}
+        - {x: -22.5, y: -26}
+        - {x: -10.5, y: -39}
+        - {x: 19.5, y: -39}
+        - {x: 22.5, y: -16}
+        - {x: 22.5, y: 31}
+        - {x: 15.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_171
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 345
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 39.5}
+        - {x: -22, y: 32.5}
+        - {x: -22, y: -20.5}
+        - {x: -21, y: -26.5}
+        - {x: -5, y: -39.5}
+        - {x: 15, y: -39.5}
+        - {x: 22, y: -23.5}
+        - {x: 22, y: 30.5}
+        - {x: 12, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_172
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 345
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 39.5}
+        - {x: -22.5, y: -26.5}
+        - {x: -11.5, y: -39.5}
+        - {x: 19.5, y: -39.5}
+        - {x: 22.5, y: -33.5}
+        - {x: 22.5, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_173
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 347
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 38.5}
+        - {x: -23, y: 27.5}
+        - {x: -23, y: -17.5}
+        - {x: -14, y: -38.5}
+        - {x: 20, y: -38.5}
+        - {x: 23, y: -33.5}
+        - {x: 23, y: 32.5}
+        - {x: 21, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_174
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 347
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 38.5}
+        - {x: -22.5, y: 26.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: -15.5}
+        - {x: -12.5, y: -38.5}
+        - {x: 12.5, y: -38.5}
+        - {x: 23.5, y: -35.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 15.5, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_175
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 350
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 37}
+        - {x: -22, y: 36}
+        - {x: -24, y: 29}
+        - {x: -24, y: -20}
+        - {x: -20, y: -37}
+        - {x: 15, y: -37}
+        - {x: 21, y: -36}
+        - {x: 24, y: -32}
+        - {x: 24, y: 34}
+        - {x: 23, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_176
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 355
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 31.5}
+        - {x: 19, y: 34.5}
+        - {x: -13, y: 34.5}
+        - {x: -18, y: 33.5}
+        - {x: -23, y: 23.5}
+        - {x: -23, y: -10.5}
+        - {x: -14, y: -33.5}
+        - {x: -11, y: -34.5}
+        - {x: 7, y: -34.5}
+        - {x: 16, y: -27.5}
+        - {x: 23, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_177
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 357
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 33.5}
+        - {x: -22, y: 22.5}
+        - {x: -22, y: -7.5}
+        - {x: -12, y: -33.5}
+        - {x: 12, y: -33.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 30.5}
+        - {x: 16, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_178
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 349
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 37.5}
+        - {x: -19.5, y: 37.5}
+        - {x: -23.5, y: 25.5}
+        - {x: -23.5, y: -20.5}
+        - {x: -18.5, y: -37.5}
+        - {x: 3.5, y: -37.5}
+        - {x: 22.5, y: -23.5}
+        - {x: 23.5, y: -12.5}
+        - {x: 23.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_179
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 351
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 36.5}
+        - {x: -23.5, y: -30.5}
+        - {x: -21.5, y: -36.5}
+        - {x: 9.5, y: -36.5}
+        - {x: 23.5, y: -30.5}
+        - {x: 23.5, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_180
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 356
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 34}
+        - {x: -26, y: 31}
+        - {x: -26, y: -34}
+        - {x: 26, y: -34}
+        - {x: 26, y: 33}
+        - {x: 23, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_181
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 355
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 29.5}
+        - {x: 20.5, y: 34.5}
+        - {x: -14.5, y: 34.5}
+        - {x: -26.5, y: 23.5}
+        - {x: -26.5, y: -34.5}
+        - {x: 26.5, y: -34.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_182
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 356
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 34}
+        - {x: -26.5, y: 28}
+        - {x: -26.5, y: -34}
+        - {x: 26.5, y: -34}
+        - {x: 26.5, y: 32}
+        - {x: 20.5, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 273
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 34}
+        - {x: -25, y: 22}
+        - {x: -26, y: 16}
+        - {x: -26, y: -31}
+        - {x: -19, y: -34}
+        - {x: 22, y: -34}
+        - {x: 26, y: -29}
+        - {x: 26, y: 26}
+        - {x: 17, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_184
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 276
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 32.5}
+        - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -32.5}
+        - {x: 25.5, y: -32.5}
+        - {x: 25.5, y: 28.5}
+        - {x: 16.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_185
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 277
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -24, y: 30}
+        - {x: -24, y: -26}
+        - {x: -22, y: -31}
+        - {x: -15, y: -28}
+        - {x: -12, y: -25}
+        - {x: 1, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_186
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 282
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 29.5}
+        - {x: -17.5, y: 29.5}
+        - {x: -23.5, y: 14.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -22.5, y: -29.5}
+        - {x: -19.5, y: -29.5}
+        - {x: -13.5, y: -27.5}
+        - {x: -11.5, y: -22.5}
+        - {x: 0.5, y: -29.5}
+        - {x: 19.5, y: -29.5}
+        - {x: 23.5, y: -26.5}
+        - {x: 23.5, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_187
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 274
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 33.5}
+        - {x: -26, y: 29.5}
+        - {x: -26, y: -33.5}
+        - {x: 26, y: -33.5}
+        - {x: 26, y: 29.5}
+        - {x: 23, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_188
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 271
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 35}
+        - {x: -26, y: 33}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 32}
+        - {x: 23, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_189
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 270
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 35.5}
+        - {x: -26.5, y: 33.5}
+        - {x: -26.5, y: -35.5}
+        - {x: 26.5, y: -35.5}
+        - {x: 26.5, y: 30.5}
+        - {x: 20.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_190
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 269
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 36}
+        - {x: -27, y: 34}
+        - {x: -27, y: -36}
+        - {x: 27, y: -36}
+        - {x: 27, y: 29}
+        - {x: 23, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_191
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 270
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 35.5}
+        - {x: -27, y: 31.5}
+        - {x: -27, y: -35.5}
+        - {x: 27, y: -35.5}
+        - {x: 27, y: 27.5}
+        - {x: 18, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_192
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 271
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -35}
+        - {x: 27, y: -35}
+        - {x: 27, y: 17}
+        - {x: 26, y: 28}
+        - {x: 21, y: 35}
+        - {x: -22, y: 35}
+        - {x: -27, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_193
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 273
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 34}
+        - {x: -26, y: 28}
+        - {x: -26, y: -34}
+        - {x: 26, y: -34}
+        - {x: 26, y: 30}
+        - {x: 19, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_194
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 278
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 31.5}
+        - {x: -24.5, y: 28.5}
+        - {x: -24.5, y: -31.5}
+        - {x: 24.5, y: -31.5}
+        - {x: 24.5, y: 15.5}
+        - {x: 16.5, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_195
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 280
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 30.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -29.5}
+        - {x: -20.5, y: -30.5}
+        - {x: 23.5, y: -30.5}
+        - {x: 23.5, y: 13.5}
+        - {x: 16.5, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_196
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 273
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 34}
+        - {x: -26, y: -34}
+        - {x: 26, y: -34}
+        - {x: 26, y: 33}
+        - {x: 23, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_197
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 275
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 33}
+        - {x: -26, y: 30}
+        - {x: -26, y: -33}
+        - {x: 26, y: -33}
+        - {x: 26, y: 32}
+        - {x: 23, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_198
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 267
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 37}
+        - {x: -20.5, y: 34}
+        - {x: -23.5, y: 15}
+        - {x: -23.5, y: -35}
+        - {x: -22.5, y: -35}
+        - {x: -17.5, y: -37}
+        - {x: 22.5, y: -37}
+        - {x: 23.5, y: -31}
+        - {x: 23.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_199
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 268
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 36.5}
+        - {x: -22, y: 36.5}
+        - {x: -23, y: 28.5}
+        - {x: -23, y: -35.5}
+        - {x: -20, y: -36.5}
+        - {x: 15, y: -36.5}
+        - {x: 20, y: -30.5}
+        - {x: 23, y: -6.5}
+        - {x: 23, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_200
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 270
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 35.5}
+        - {x: -22, y: 26.5}
+        - {x: -22, y: -31.5}
+        - {x: -18, y: -35.5}
+        - {x: 22, y: -35.5}
+        - {x: 22, y: 33.5}
+        - {x: 18, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_201
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 272
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 34.5}
+        - {x: -21, y: 30.5}
+        - {x: -21, y: -32.5}
+        - {x: -16, y: -34.5}
+        - {x: 21, y: -34.5}
+        - {x: 21, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_202
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 196
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 33.5}
+        - {x: -20.5, y: 32.5}
+        - {x: -20.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 20.5, y: 28.5}
+        - {x: 15.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_203
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 201
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 31}
+        - {x: -20.5, y: 24}
+        - {x: -20.5, y: -23}
+        - {x: -19.5, y: -24}
+        - {x: -9.5, y: -29}
+        - {x: -6.5, y: -31}
+        - {x: 19.5, y: -31}
+        - {x: 20.5, y: -29}
+        - {x: 20.5, y: 22}
+        - {x: 18.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_204
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 205
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 29}
+        - {x: -22, y: -25}
+        - {x: -18, y: -29}
+        - {x: 22, y: -29}
+        - {x: 22, y: 25}
+        - {x: 21, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_205
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 196
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 33.5}
+        - {x: -18.5, y: 30.5}
+        - {x: -25.5, y: -3.5}
+        - {x: -25.5, y: -32.5}
+        - {x: -20.5, y: -33.5}
+        - {x: 25.5, y: -33.5}
+        - {x: 25.5, y: 28.5}
+        - {x: 21.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 35}
+        - {x: -27.5, y: 8}
+        - {x: -27.5, y: -21}
+        - {x: -20.5, y: -35}
+        - {x: 27.5, y: -35}
+        - {x: 27.5, y: 32}
+        - {x: 21.5, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_207
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 191
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 36}
+        - {x: -25, y: 13}
+        - {x: -26, y: 8}
+        - {x: -26, y: -24}
+        - {x: -11, y: -36}
+        - {x: 23, y: -36}
+        - {x: 26, y: -34}
+        - {x: 26, y: 31}
+        - {x: 19, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_208
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 189
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 37}
+        - {x: -22, y: 26}
+        - {x: -25, y: -1}
+        - {x: -25, y: -24}
+        - {x: -16, y: -37}
+        - {x: 25, y: -37}
+        - {x: 25, y: 35}
+        - {x: 19, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_209
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 189
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 37}
+        - {x: -22.5, y: -37}
+        - {x: 22.5, y: -37}
+        - {x: 22.5, y: 36}
+        - {x: 16.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_210
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 189
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 37}
+        - {x: -21.5, y: -37}
+        - {x: 21.5, y: -37}
+        - {x: 21.5, y: 33}
+        - {x: 18.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_211
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 190
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -3.5}
+        - {x: 22, y: 7.5}
+        - {x: 22, y: 31.5}
+        - {x: 20, y: 36.5}
+        - {x: -22, y: 36.5}
+        - {x: -22, y: -34.5}
+        - {x: -19, y: -36.5}
+        - {x: 19, y: -36.5}
+        - {x: 22, y: -32.5}
+        - {x: 22, y: -25.5}
+        - {x: 17, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_212
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 195
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 34}
+        - {x: -21, y: 26}
+        - {x: -21, y: -34}
+        - {x: 21, y: -34}
+        - {x: 21, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_213
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 197
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 33}
+        - {x: -20.5, y: 30}
+        - {x: -20.5, y: -28}
+        - {x: -19.5, y: -33}
+        - {x: 20.5, y: -33}
+        - {x: 20.5, y: 31}
+        - {x: 16.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_214
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 190
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 32.5}
+        - {x: 22, y: 36.5}
+        - {x: -12, y: 36.5}
+        - {x: -24, y: 31.5}
+        - {x: -24, y: -29.5}
+        - {x: -8, y: -36.5}
+        - {x: 21, y: -36.5}
+        - {x: 24, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: astronaut_215
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 189
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 37}
+        - {x: -20.5, y: 34}
+        - {x: -24.5, y: 17}
+        - {x: -24.5, y: -34}
+        - {x: -16.5, y: -37}
+        - {x: 24.5, y: -37}
+        - {x: 24.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

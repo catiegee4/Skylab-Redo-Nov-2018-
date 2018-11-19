@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ef5adb20a1333b945a3f47cc7ce70065
+timeCreated: 1524226749
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlueSprite: {fileID: 21300000, guid: d506aef5f0291c44cb7989c6aec0d8dd, type: 3}
+  - PurpleSprite: {fileID: 21300000, guid: 8217c5d47ecdd6143912e934efe7150b, type: 3}
+  - portal: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

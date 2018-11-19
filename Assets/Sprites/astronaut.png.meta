@@ -1,0 +1,4346 @@
+fileFormatVersion: 2
+guid: 2b034d86cd57b444eb8474df4d23620e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: p_idle_back01
+    21300002: p_idle_back02
+    21300004: p_idle_back03
+    21300006: p_idle_back04
+    21300008: p_idle_back05
+    21300010: p_idle_back06
+    21300012: p_idle_back07
+    21300014: p_idle_back08
+    21300016: p_idle_back09
+    21300018: p_idle_front01
+    21300020: p_idle_front02
+    21300022: p_idle_front03
+    21300024: p_idle_front04
+    21300026: p_idle_front05
+    21300028: p_idle_front06
+    21300030: p_idle_front07
+    21300032: p_idle_front08
+    21300034: p_idle_front09
+    21300036: p_idle_side01
+    21300038: p_idle_side02
+    21300040: p_idle_side03
+    21300042: p_idle_side04
+    21300044: p_idle_side05
+    21300046: p_idle_side06
+    21300048: p_idle_side07
+    21300050: p_idle_side08
+    21300052: p_idle_side09
+    21300054: p_walk_back01
+    21300056: p_walk_back02
+    21300058: p_walk_back03
+    21300060: p_walk_back04
+    21300062: p_walk_back05
+    21300064: p_walk_back06
+    21300066: p_walk_back07
+    21300068: p_walk_back08
+    21300070: p_walk_back09
+    21300072: p_walk_front01
+    21300074: p_walk_front02
+    21300076: p_walk_front03
+    21300078: p_walk_front04
+    21300080: p_walk_front05
+    21300082: p_walk_front06
+    21300084: p_walk_front07
+    21300086: p_walk_front08
+    21300088: p_walk_front09
+    21300090: p_walk_side01
+    21300092: p_walk_side02
+    21300094: p_walk_side03
+    21300096: p_walk_side04
+    21300098: p_walk_side05
+    21300100: p_walk_side06
+    21300102: p_walk_side07
+    21300104: p_walk_side08
+    21300106: p_walk_side09
+    21300108: y_idle_back01
+    21300110: y_idle_back02
+    21300112: y_idle_back03
+    21300114: y_idle_back04
+    21300116: y_idle_back05
+    21300118: y_idle_back06
+    21300120: y_idle_back07
+    21300122: y_idle_back08
+    21300124: y_idle_back09
+    21300126: y_idle_front01
+    21300128: y_idle_front02
+    21300130: y_idle_front03
+    21300132: y_idle_front04
+    21300134: y_idle_front05
+    21300136: y_idle_front06
+    21300138: y_idle_front07
+    21300140: y_idle_front08
+    21300142: y_idle_front09
+    21300144: y_idle_side01
+    21300146: y_idle_side02
+    21300148: y_idle_side03
+    21300150: y_idle_side04
+    21300152: y_idle_side05
+    21300154: y_idle_side06
+    21300156: y_idle_side07
+    21300158: y_idle_side08
+    21300160: y_idle_side09
+    21300162: y_walk_back01
+    21300164: y_walk_back02
+    21300166: y_walk_back03
+    21300168: y_walk_back04
+    21300170: y_walk_back05
+    21300172: y_walk_back06
+    21300174: y_walk_back07
+    21300176: y_walk_back08
+    21300178: y_walk_back09
+    21300180: y_walk_front01
+    21300182: y_walk_front02
+    21300184: y_walk_front03
+    21300186: y_walk_front04
+    21300188: y_walk_front05
+    21300190: y_walk_front06
+    21300192: y_walk_front07
+    21300194: y_walk_front08
+    21300196: y_walk_front09
+    21300198: y_walk_side01
+    21300200: y_walk_side02
+    21300202: y_walk_side03
+    21300204: y_walk_side04
+    21300206: y_walk_side05
+    21300208: y_walk_side06
+    21300210: y_walk_side07
+    21300212: y_walk_side08
+    21300214: y_walk_side09
+    21300216: p_walk_back10
+    21300218: p_walk_back11
+    21300220: p_walk_back12
+    21300222: p_walk_back13
+    21300224: p_walk_back14
+    21300226: p_walk_back15
+    21300228: p_walk_back16
+    21300230: p_walk_back17
+    21300232: p_walk_back18
+    21300234: p_idle_back10
+    21300236: p_idle_back11
+    21300238: p_idle_back12
+    21300240: p_idle_back13
+    21300242: p_idle_back14
+    21300244: p_idle_back15
+    21300246: p_idle_back16
+    21300248: p_idle_back17
+    21300250: p_idle_back18
+    21300252: p_idle_front10
+    21300254: p_idle_front11
+    21300256: p_idle_front12
+    21300258: p_idle_front13
+    21300260: p_idle_front14
+    21300262: p_idle_front15
+    21300264: p_idle_front16
+    21300266: p_idle_front17
+    21300268: p_idle_front18
+    21300270: p_idle_side10
+    21300272: p_idle_side11
+    21300274: p_idle_side12
+    21300276: p_idle_side13
+    21300278: p_idle_side14
+    21300280: p_idle_side15
+    21300282: p_idle_side16
+    21300284: p_idle_side17
+    21300286: p_idle_side18
+    21300288: p_walk_front10
+    21300290: p_walk_front11
+    21300292: p_walk_front12
+    21300294: p_walk_front13
+    21300296: p_walk_front14
+    21300298: p_walk_front15
+    21300300: p_walk_front16
+    21300302: p_walk_front17
+    21300304: p_walk_front18
+    21300306: p_walk_side10
+    21300308: p_walk_side11
+    21300310: p_walk_side12
+    21300312: p_walk_side13
+    21300314: p_walk_side14
+    21300316: p_walk_side15
+    21300318: p_walk_side16
+    21300320: p_walk_side17
+    21300322: p_walk_side18
+    21300324: y_idle_back10
+    21300326: y_idle_back11
+    21300328: y_idle_back12
+    21300330: y_idle_back13
+    21300332: y_idle_back14
+    21300334: y_idle_back15
+    21300336: y_idle_back16
+    21300338: y_idle_back17
+    21300340: y_idle_back18
+    21300342: y_idle_front10
+    21300344: y_idle_front11
+    21300346: y_idle_front12
+    21300348: y_idle_front13
+    21300350: y_idle_front14
+    21300352: y_idle_front15
+    21300354: y_idle_front16
+    21300356: y_idle_front17
+    21300358: y_idle_front18
+    21300360: y_idle_side10
+    21300362: y_idle_side11
+    21300364: y_idle_side12
+    21300366: y_idle_side13
+    21300368: y_idle_side14
+    21300370: y_idle_side15
+    21300372: y_idle_side16
+    21300374: y_idle_side17
+    21300376: y_idle_side18
+    21300378: y_walk_back10
+    21300380: y_walk_back11
+    21300382: y_walk_back12
+    21300384: y_walk_back13
+    21300386: y_walk_back14
+    21300388: y_walk_back15
+    21300390: y_walk_back16
+    21300392: y_walk_back17
+    21300394: y_walk_back18
+    21300396: y_walk_front10
+    21300398: y_walk_front11
+    21300400: y_walk_front12
+    21300402: y_walk_front13
+    21300404: y_walk_front14
+    21300406: y_walk_front15
+    21300408: y_walk_front16
+    21300410: y_walk_front17
+    21300412: y_walk_front18
+    21300414: y_walk_side10
+    21300416: y_walk_side11
+    21300418: y_walk_side12
+    21300420: y_walk_side13
+    21300422: y_walk_side14
+    21300424: y_walk_side15
+    21300426: y_walk_side16
+    21300428: y_walk_side17
+    21300430: y_walk_side18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: p_idle_back01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 56}
+        - {x: -24, y: 53}
+        - {x: -24, y: 0}
+        - {x: -19, y: -3}
+        - {x: 12, y: -3}
+        - {x: 24, y: 1}
+        - {x: 24, y: 54}
+        - {x: 19, y: 56}
+    - name: p_idle_back02
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 56}
+        - {x: -23, y: 47}
+        - {x: -24, y: 44}
+        - {x: -24, y: -1}
+        - {x: -18, y: -3}
+        - {x: 19, y: -3}
+        - {x: 24, y: 2}
+        - {x: 24, y: 51}
+        - {x: 13, y: 56}
+    - name: p_idle_back03
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: 4}
+        - {x: -18, y: -3}
+        - {x: 11, y: -3}
+        - {x: 24, y: 3}
+        - {x: 24, y: 53}
+        - {x: 15, y: 56}
+    - name: p_idle_back04
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 56}
+        - {x: -24, y: 49}
+        - {x: -24, y: 6}
+        - {x: -14, y: -3}
+        - {x: 24, y: -3}
+        - {x: 24, y: 52}
+        - {x: 19, y: 56}
+    - name: p_idle_back05
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 56}
+        - {x: -17, y: 56}
+        - {x: -23, y: 43}
+        - {x: -24, y: 35}
+        - {x: -24, y: 5}
+        - {x: -14, y: -3}
+        - {x: 12, y: -3}
+        - {x: 24, y: 6}
+        - {x: 24, y: 37}
+        - {x: 23, y: 44}
+    - name: p_idle_back06
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: 6}
+        - {x: -11, y: -3}
+        - {x: 11, y: -3}
+        - {x: 24, y: 7}
+        - {x: 24, y: 51}
+        - {x: 15, y: 56}
+    - name: p_idle_back07
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 56}
+        - {x: -24, y: 52}
+        - {x: -24, y: -2}
+        - {x: -23, y: -3}
+        - {x: 21, y: -3}
+        - {x: 24, y: -2}
+        - {x: 24, y: 56}
+    - name: p_idle_back08
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 965
+        width: 48
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 55}
+        - {x: -21, y: 55}
+        - {x: -24, y: 42}
+        - {x: -24, y: 2}
+        - {x: -16, y: -3}
+        - {x: 14, y: -3}
+        - {x: 24, y: 7}
+        - {x: 24, y: 32}
+        - {x: 23, y: 43}
+    - name: p_idle_back09
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 965
+        width: 48
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 55}
+        - {x: -24, y: 48}
+        - {x: -24, y: 8}
+        - {x: -16, y: -3}
+        - {x: 18, y: -3}
+        - {x: 24, y: -1}
+        - {x: 24, y: 50}
+        - {x: 17, y: 55}
+    - name: p_idle_back10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 965
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 55}
+        - {x: -23, y: 53}
+        - {x: -23, y: 3}
+        - {x: -20, y: -3}
+        - {x: 24, y: -3}
+        - {x: 24, y: 48}
+        - {x: 17, y: 55}
+    - name: p_idle_back11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 965
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 55}
+        - {x: -23, y: 53}
+        - {x: -23, y: 3}
+        - {x: -20, y: -3}
+        - {x: 24, y: -3}
+        - {x: 24, y: 48}
+        - {x: 17, y: 55}
+    - name: p_idle_back12
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 965
+        width: 48
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 55}
+        - {x: -24, y: 48}
+        - {x: -24, y: 8}
+        - {x: -16, y: -3}
+        - {x: 18, y: -3}
+        - {x: 24, y: -1}
+        - {x: 24, y: 50}
+        - {x: 17, y: 55}
+    - name: p_idle_back13
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 965
+        width: 48
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 55}
+        - {x: -21, y: 55}
+        - {x: -24, y: 42}
+        - {x: -24, y: 2}
+        - {x: -16, y: -3}
+        - {x: 14, y: -3}
+        - {x: 24, y: 7}
+        - {x: 24, y: 32}
+        - {x: 23, y: 43}
+    - name: p_idle_back14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 56}
+        - {x: -24, y: 50}
+        - {x: -24, y: 4}
+        - {x: -16, y: -3}
+        - {x: 24, y: -3}
+        - {x: 24, y: 48}
+        - {x: 18, y: 56}
+    - name: p_idle_back15
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: 6}
+        - {x: -11, y: -3}
+        - {x: 11, y: -3}
+        - {x: 24, y: 7}
+        - {x: 24, y: 51}
+        - {x: 15, y: 56}
+    - name: p_idle_back16
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 56}
+        - {x: -17, y: 56}
+        - {x: -23, y: 43}
+        - {x: -24, y: 35}
+        - {x: -24, y: 5}
+        - {x: -14, y: -3}
+        - {x: 12, y: -3}
+        - {x: 24, y: 6}
+        - {x: 24, y: 37}
+        - {x: 23, y: 44}
+    - name: p_idle_back17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 56}
+        - {x: -24, y: 49}
+        - {x: -24, y: 6}
+        - {x: -14, y: -3}
+        - {x: 24, y: -3}
+        - {x: 24, y: 52}
+        - {x: 19, y: 56}
+    - name: p_idle_back18
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 964
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: 4}
+        - {x: -18, y: -3}
+        - {x: 11, y: -3}
+        - {x: 24, y: 3}
+        - {x: 24, y: 53}
+        - {x: 15, y: 56}
+    - name: p_idle_front01
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 961
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 57}
+        - {x: -24, y: 47}
+        - {x: -24, y: 6}
+        - {x: -11, y: -5}
+        - {x: 10, y: -5}
+        - {x: 24, y: 4}
+        - {x: 24, y: 47}
+        - {x: 16, y: 57}
+    - name: p_idle_front02
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 961
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 57}
+        - {x: -24, y: 44}
+        - {x: -24, y: 7}
+        - {x: -16, y: -5}
+        - {x: 12, y: -5}
+        - {x: 24, y: 0}
+        - {x: 24, y: 48}
+        - {x: 16, y: 57}
+    - name: p_idle_front03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 897
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 57}
+        - {x: -24, y: 55}
+        - {x: -24, y: 8}
+        - {x: -12, y: -5}
+        - {x: 10, y: -5}
+        - {x: 24, y: 8}
+        - {x: 24, y: 47}
+        - {x: 16, y: 57}
+    - name: p_idle_front04
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 897
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 57}
+        - {x: -24, y: 49}
+        - {x: -24, y: 9}
+        - {x: -15, y: -5}
+        - {x: 12, y: -5}
+        - {x: 24, y: 0}
+        - {x: 24, y: 52}
+        - {x: 14, y: 57}
+    - name: p_idle_front05
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 897
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 57}
+        - {x: -24, y: 50}
+        - {x: -24, y: 0}
+        - {x: -17, y: -5}
+        - {x: 14, y: -5}
+        - {x: 20, y: -3}
+        - {x: 24, y: 0}
+        - {x: 24, y: 43}
+        - {x: 20, y: 57}
+    - name: p_idle_front06
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 897
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 57}
+        - {x: -24, y: 42}
+        - {x: -24, y: 1}
+        - {x: -12, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 57}
+    - name: p_idle_front07
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 898
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 56}
+        - {x: -24, y: -5}
+        - {x: 13, y: -5}
+        - {x: 24, y: 6}
+        - {x: 24, y: 54}
+        - {x: 16, y: 56}
+    - name: p_idle_front08
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 898
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 56}
+        - {x: -24, y: 44}
+        - {x: -24, y: 0}
+        - {x: -14, y: -5}
+        - {x: 12, y: -5}
+        - {x: 24, y: 6}
+        - {x: 24, y: 52}
+        - {x: 19, y: 56}
+    - name: p_idle_front09
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 898
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: -2}
+        - {x: -21, y: -5}
+        - {x: 20, y: -5}
+        - {x: 24, y: -2}
+        - {x: 24, y: 51}
+        - {x: 20, y: 56}
+    - name: p_idle_front10
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 898
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 56}
+        - {x: -24, y: 48}
+        - {x: -24, y: 5}
+        - {x: -14, y: -5}
+        - {x: 19, y: -5}
+        - {x: 24, y: 0}
+        - {x: 24, y: 44}
+        - {x: 17, y: 56}
+    - name: p_idle_front11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 898
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 56}
+        - {x: -24, y: 48}
+        - {x: -24, y: 5}
+        - {x: -14, y: -5}
+        - {x: 19, y: -5}
+        - {x: 24, y: 0}
+        - {x: 24, y: 44}
+        - {x: 17, y: 56}
+    - name: p_idle_front12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 898
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: -2}
+        - {x: -21, y: -5}
+        - {x: 20, y: -5}
+        - {x: 24, y: -2}
+        - {x: 24, y: 51}
+        - {x: 20, y: 56}
+    - name: p_idle_front13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 898
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 56}
+        - {x: -24, y: 44}
+        - {x: -24, y: 0}
+        - {x: -14, y: -5}
+        - {x: 12, y: -5}
+        - {x: 24, y: 6}
+        - {x: 24, y: 52}
+        - {x: 19, y: 56}
+    - name: p_idle_front14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 898
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 56}
+        - {x: -24, y: 53}
+        - {x: -24, y: 6}
+        - {x: -17, y: -5}
+        - {x: 19, y: -5}
+        - {x: 23, y: -4}
+        - {x: 24, y: 0}
+        - {x: 24, y: 52}
+        - {x: 16, y: 56}
+    - name: p_idle_front15
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 897
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 57}
+        - {x: -24, y: 42}
+        - {x: -24, y: 1}
+        - {x: -12, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 57}
+    - name: p_idle_front16
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 897
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 57}
+        - {x: -24, y: 50}
+        - {x: -24, y: 0}
+        - {x: -17, y: -5}
+        - {x: 14, y: -5}
+        - {x: 20, y: -3}
+        - {x: 24, y: 0}
+        - {x: 24, y: 43}
+        - {x: 20, y: 57}
+    - name: p_idle_front17
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 897
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 57}
+        - {x: -24, y: 49}
+        - {x: -24, y: 9}
+        - {x: -15, y: -5}
+        - {x: 12, y: -5}
+        - {x: 24, y: 0}
+        - {x: 24, y: 52}
+        - {x: 14, y: 57}
+    - name: p_idle_front18
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 897
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 57}
+        - {x: -24, y: -5}
+        - {x: 14, y: -5}
+        - {x: 24, y: 7}
+        - {x: 24, y: 53}
+        - {x: 15, y: 57}
+    - name: p_idle_side01
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 891
+        width: 39
+        height: 68
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 57}
+        - {x: -21, y: 56}
+        - {x: -21, y: -3}
+        - {x: -8, y: -11}
+        - {x: 11, y: -11}
+        - {x: 18, y: 1}
+        - {x: 18, y: 54}
+        - {x: 13, y: 57}
+    - name: p_idle_side02
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 891
+        width: 39
+        height: 68
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 57}
+        - {x: -21, y: 56}
+        - {x: -21, y: -2}
+        - {x: -9, y: -11}
+        - {x: 16, y: -11}
+        - {x: 18, y: 3}
+        - {x: 18, y: 57}
+    - name: p_idle_side03
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 891
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 57}
+        - {x: -18, y: 57}
+        - {x: -21, y: 49}
+        - {x: -21, y: 13}
+        - {x: -15, y: -8}
+        - {x: -9, y: -11}
+        - {x: 6, y: -11}
+        - {x: 11, y: -8}
+        - {x: 19, y: 9}
+        - {x: 19, y: 49}
+    - name: p_idle_side04
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 891
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 57}
+        - {x: -21, y: 54}
+        - {x: -21, y: 20}
+        - {x: -18, y: 2}
+        - {x: -11, y: -8}
+        - {x: -8, y: -11}
+        - {x: 6, y: -11}
+        - {x: 19, y: 5}
+        - {x: 19, y: 49}
+        - {x: 13, y: 57}
+    - name: p_idle_side05
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 891
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 57}
+        - {x: -21, y: 56}
+        - {x: -21, y: 14}
+        - {x: -15, y: -9}
+        - {x: -12, y: -11}
+        - {x: 4, y: -11}
+        - {x: 19, y: 2}
+        - {x: 19, y: 54}
+        - {x: 15, y: 57}
+    - name: p_idle_side06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 821
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 57}
+        - {x: -13, y: 57}
+        - {x: -20, y: 55}
+        - {x: -21, y: 54}
+        - {x: -21, y: 10}
+        - {x: -15, y: -11}
+        - {x: 5, y: -11}
+        - {x: 18, y: 8}
+        - {x: 19, y: 14}
+        - {x: 19, y: 50}
+    - name: p_idle_side07
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 822
+        width: 40
+        height: 67
+      alignment: 9
+      pivot: {x: 0.525, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 56}
+        - {x: -21, y: 53}
+        - {x: -21, y: 1}
+        - {x: -15, y: -11}
+        - {x: 16, y: -11}
+        - {x: 19, y: 5}
+        - {x: 19, y: 56}
+    - name: p_idle_side08
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 822
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 56}
+        - {x: -20, y: -4}
+        - {x: -11, y: -11}
+        - {x: 5, y: -11}
+        - {x: 13, y: -8}
+        - {x: 19, y: 0}
+        - {x: 19, y: 56}
+    - name: p_idle_side09
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 822
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 56}
+        - {x: -15, y: 56}
+        - {x: -20, y: 49}
+        - {x: -20, y: -2}
+        - {x: -7, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -7}
+        - {x: 19, y: 19}
+        - {x: 19, y: 50}
+    - name: p_idle_side10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 822
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56}
+        - {x: -20, y: 55}
+        - {x: -20, y: 0}
+        - {x: -16, y: -11}
+        - {x: 7, y: -11}
+        - {x: 19, y: 5}
+        - {x: 19, y: 53}
+        - {x: 17, y: 56}
+    - name: p_idle_side11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 822
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56}
+        - {x: -20, y: 55}
+        - {x: -20, y: 0}
+        - {x: -16, y: -11}
+        - {x: 7, y: -11}
+        - {x: 19, y: 5}
+        - {x: 19, y: 53}
+        - {x: 17, y: 56}
+    - name: p_idle_side12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 822
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 56}
+        - {x: -20, y: 54}
+        - {x: -20, y: 4}
+        - {x: -15, y: -11}
+        - {x: 7, y: -11}
+        - {x: 19, y: 7}
+        - {x: 19, y: 48}
+        - {x: 12, y: 56}
+    - name: p_idle_side13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 822
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 56}
+        - {x: -20, y: -4}
+        - {x: -11, y: -11}
+        - {x: 5, y: -11}
+        - {x: 13, y: -8}
+        - {x: 19, y: 0}
+        - {x: 19, y: 56}
+    - name: p_idle_side14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 822
+        width: 40
+        height: 67
+      alignment: 9
+      pivot: {x: 0.525, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 56}
+        - {x: -21, y: 49}
+        - {x: -21, y: 11}
+        - {x: -12, y: -10}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 19, y: 12}
+        - {x: 19, y: 53}
+        - {x: 13, y: 56}
+    - name: p_idle_side15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 821
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 57}
+        - {x: -13, y: 57}
+        - {x: -20, y: 55}
+        - {x: -21, y: 54}
+        - {x: -21, y: 10}
+        - {x: -15, y: -11}
+        - {x: 5, y: -11}
+        - {x: 18, y: 8}
+        - {x: 19, y: 14}
+        - {x: 19, y: 50}
+    - name: p_idle_side16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 821
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 57}
+        - {x: -21, y: 56}
+        - {x: -21, y: 14}
+        - {x: -15, y: -9}
+        - {x: -12, y: -11}
+        - {x: 4, y: -11}
+        - {x: 19, y: 2}
+        - {x: 19, y: 54}
+        - {x: 15, y: 57}
+    - name: p_idle_side17
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 821
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 57}
+        - {x: -21, y: 54}
+        - {x: -21, y: 20}
+        - {x: -18, y: 2}
+        - {x: -11, y: -8}
+        - {x: -8, y: -11}
+        - {x: 6, y: -11}
+        - {x: 19, y: 5}
+        - {x: 19, y: 49}
+        - {x: 13, y: 57}
+    - name: p_idle_side18
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 821
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 57}
+        - {x: -18, y: 57}
+        - {x: -21, y: 49}
+        - {x: -21, y: 13}
+        - {x: -15, y: -8}
+        - {x: -9, y: -11}
+        - {x: 6, y: -11}
+        - {x: 11, y: -8}
+        - {x: 19, y: 9}
+        - {x: 19, y: 49}
+    - name: p_walk_back01
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 812
+        width: 47
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4893617, y: -0.038961038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 80}
+        - {x: -23, y: 76}
+        - {x: -23, y: 18}
+        - {x: -20, y: 3}
+        - {x: 12, y: 3}
+        - {x: 24, y: 16}
+        - {x: 24, y: 69}
+        - {x: 21, y: 80}
+    - name: p_walk_back02
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 812
+        width: 47
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4893617, y: -0.038961038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 80}
+        - {x: -23, y: 75}
+        - {x: -23, y: 16}
+        - {x: -12, y: 3}
+        - {x: 19, y: 3}
+        - {x: 24, y: 8}
+        - {x: 24, y: 75}
+        - {x: 20, y: 80}
+    - name: p_walk_back03
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 811
+        width: 48
+        height: 78
+      alignment: 9
+      pivot: {x: 0.47916666, y: -0.012820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 79}
+        - {x: -23, y: 77}
+        - {x: -23, y: 16}
+        - {x: -19, y: 1}
+        - {x: 16, y: 1}
+        - {x: 25, y: 5}
+        - {x: 25, y: 78}
+        - {x: 22, y: 79}
+    - name: p_walk_back04
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 811
+        width: 50
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 75}
+        - {x: -23, y: 67}
+        - {x: -23, y: 17}
+        - {x: -7, y: -3}
+        - {x: 15, y: -3}
+        - {x: 20, y: 0}
+        - {x: 27, y: 16}
+        - {x: 27, y: 55}
+        - {x: 20, y: 75}
+    - name: p_walk_back05
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 813
+        width: 50
+        height: 76
+      alignment: 9
+      pivot: {x: 0.46, y: 0.118421055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 67}
+        - {x: -18, y: 67}
+        - {x: -23, y: 57}
+        - {x: -23, y: 28}
+        - {x: -19, y: 7}
+        - {x: -6, y: -9}
+        - {x: 11, y: -9}
+        - {x: 19, y: -4}
+        - {x: 27, y: 18}
+        - {x: 27, y: 44}
+        - {x: 26, y: 50}
+    - name: p_walk_back06
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 816
+        width: 49
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0.20547946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 58}
+        - {x: -22, y: 56}
+        - {x: -22, y: 13}
+        - {x: -17, y: 3}
+        - {x: -9, y: -3}
+        - {x: 1, y: -15}
+        - {x: 11, y: -15}
+        - {x: 27, y: -11}
+        - {x: 27, y: 58}
+    - name: p_walk_back07
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 818
+        width: 46
+        height: 71
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.23943663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 54}
+        - {x: -15, y: 54}
+        - {x: -21, y: 53}
+        - {x: -21, y: 4}
+        - {x: -7, y: -17}
+        - {x: 15, y: -17}
+        - {x: 25, y: 3}
+        - {x: 25, y: 34}
+        - {x: 22, y: 43}
+    - name: p_walk_back08
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 812
+        width: 47
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.064935066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 72}
+        - {x: -15, y: 71}
+        - {x: -22, y: 66}
+        - {x: -22, y: 20}
+        - {x: -19, y: 6}
+        - {x: -4, y: -5}
+        - {x: 22, y: -5}
+        - {x: 25, y: 19}
+        - {x: 25, y: 65}
+        - {x: 17, y: 72}
+    - name: p_walk_back09
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 809
+        width: 47
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.0375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 77}
+        - {x: -19, y: 77}
+        - {x: -23, y: 71}
+        - {x: -23, y: 20}
+        - {x: -21, y: 8}
+        - {x: -1, y: -3}
+        - {x: 16, y: -3}
+        - {x: 24, y: 14}
+        - {x: 24, y: 65}
+    - name: p_walk_back10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 726
+        width: 46
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.024691358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 79}
+        - {x: -23, y: 78}
+        - {x: -23, y: 10}
+        - {x: -4, y: -2}
+        - {x: 15, y: -2}
+        - {x: 23, y: 14}
+        - {x: 23, y: 74}
+        - {x: 13, y: 79}
+    - name: p_walk_back11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 726
+        width: 47
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 81}
+        - {x: -24, y: 18}
+        - {x: -13, y: 0}
+        - {x: 23, y: 0}
+        - {x: 23, y: 81}
+    - name: p_walk_back12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 728
+        width: 48
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5208333, y: -0.012658228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 80}
+        - {x: -25, y: 76}
+        - {x: -25, y: 13}
+        - {x: -22, y: 1}
+        - {x: 20, y: 1}
+        - {x: 23, y: 16}
+        - {x: 23, y: 79}
+        - {x: 20, y: 80}
+    - name: p_walk_back13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 728
+        width: 49
+        height: 79
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.025316456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 77}
+        - {x: -26, y: 75}
+        - {x: -26, y: 25}
+        - {x: -15, y: -2}
+        - {x: 19, y: -2}
+        - {x: 23, y: 12}
+        - {x: 23, y: 77}
+    - name: p_walk_back14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 731
+        width: 50
+        height: 76
+      alignment: 9
+      pivot: {x: 0.54, y: 0.065789476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 71}
+        - {x: -24, y: 62}
+        - {x: -27, y: 51}
+        - {x: -27, y: 24}
+        - {x: -14, y: -5}
+        - {x: 10, y: -5}
+        - {x: 23, y: 17}
+        - {x: 23, y: 67}
+        - {x: 15, y: 71}
+    - name: p_walk_back15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 736
+        width: 48
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.18309858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 58}
+        - {x: -23, y: 50}
+        - {x: -26, y: 37}
+        - {x: -26, y: 8}
+        - {x: -16, y: -11}
+        - {x: -14, y: -13}
+        - {x: 6, y: -13}
+        - {x: 22, y: 6}
+        - {x: 22, y: 56}
+        - {x: 16, y: 58}
+    - name: p_walk_back16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 738
+        width: 46
+        height: 69
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.2173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 54}
+        - {x: -25, y: 54}
+        - {x: -25, y: -15}
+        - {x: 3, y: -15}
+        - {x: 19, y: -3}
+        - {x: 21, y: 9}
+        - {x: 21, y: 50}
+    - name: p_walk_back17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 730
+        width: 49
+        height: 77
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 70}
+        - {x: -12, y: 70}
+        - {x: -23, y: 60}
+        - {x: -26, y: 52}
+        - {x: -26, y: 2}
+        - {x: -17, y: -7}
+        - {x: 11, y: -7}
+        - {x: 21, y: 8}
+        - {x: 23, y: 19}
+        - {x: 23, y: 63}
+    - name: p_walk_back18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 732
+        width: 49
+        height: 75
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.013333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 74}
+        - {x: -26, y: 69}
+        - {x: -26, y: 22}
+        - {x: -15, y: -1}
+        - {x: 12, y: -1}
+        - {x: 23, y: 1}
+        - {x: 23, y: 74}
+    - name: p_walk_front01
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 737
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 0}
+        - {x: -26, y: -2}
+        - {x: 27, y: -2}
+        - {x: 27, y: 61}
+        - {x: 26, y: 63}
+        - {x: 22, y: 68}
+        - {x: -17, y: 68}
+        - {x: -27, y: 63}
+    - name: p_walk_front02
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 736
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5090909, y: 0.028169014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -2}
+        - {x: 27, y: -2}
+        - {x: 27, y: 69}
+        - {x: -14, y: 69}
+        - {x: -28, y: 59}
+    - name: p_walk_front03
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 737
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5272727, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 68}
+        - {x: -29, y: 58}
+        - {x: -29, y: -2}
+        - {x: 26, y: -2}
+        - {x: 26, y: 60}
+        - {x: 20, y: 68}
+    - name: p_walk_front04
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 737
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.042857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 67}
+        - {x: -29, y: 63}
+        - {x: -29, y: -1}
+        - {x: -22, y: -3}
+        - {x: 24, y: -3}
+        - {x: 25, y: -2}
+        - {x: 25, y: 59}
+        - {x: 17, y: 67}
+    - name: p_walk_front05
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 740
+        width: 53
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.05970149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 63}
+        - {x: -29, y: 43}
+        - {x: -29, y: -4}
+        - {x: 22, y: -4}
+        - {x: 24, y: 2}
+        - {x: 24, y: 58}
+        - {x: 18, y: 63}
+    - name: p_walk_front06
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 741
+        width: 50
+        height: 66
+      alignment: 9
+      pivot: {x: 0.56, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 57}
+        - {x: -28, y: -7}
+        - {x: -18, y: -9}
+        - {x: 22, y: -9}
+        - {x: 22, y: 57}
+    - name: p_walk_front07
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 746
+        width: 49
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5510204, y: 0.18032786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 50}
+        - {x: -27, y: 32}
+        - {x: -27, y: -9}
+        - {x: -26, y: -11}
+        - {x: -22, y: -11}
+        - {x: -14, y: -8}
+        - {x: -6, y: -11}
+        - {x: 21, y: -11}
+        - {x: 22, y: -9}
+        - {x: 22, y: 49}
+        - {x: 20, y: 50}
+    - name: p_walk_front08
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 738
+        width: 54
+        height: 69
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.08695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 63}
+        - {x: -29, y: 54}
+        - {x: -29, y: -2}
+        - {x: -26, y: -6}
+        - {x: 25, y: -6}
+        - {x: 25, y: 59}
+        - {x: 22, y: 63}
+    - name: p_walk_front09
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 735
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 66}
+        - {x: -28, y: 61}
+        - {x: -28, y: -4}
+        - {x: -20, y: -6}
+        - {x: 26, y: -6}
+        - {x: 26, y: 57}
+        - {x: 20, y: 66}
+    - name: p_walk_front10
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 734
+        width: 55
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.06849315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 64}
+        - {x: 18, y: 68}
+        - {x: -14, y: 68}
+        - {x: -27, y: 60}
+        - {x: -27, y: -5}
+        - {x: -13, y: -5}
+        - {x: -10, y: -2}
+        - {x: 3, y: -5}
+        - {x: 28, y: -5}
+    - name: p_walk_front11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 650
+        width: 56
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.067567565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 69}
+        - {x: -27, y: 68}
+        - {x: -27, y: -5}
+        - {x: 29, y: -5}
+        - {x: 29, y: 69}
+    - name: p_walk_front12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 651
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.05479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 69}
+        - {x: -26, y: -4}
+        - {x: 30, y: -4}
+        - {x: 30, y: 54}
+        - {x: 27, y: 69}
+    - name: p_walk_front13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 652
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.44642857, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 68}
+        - {x: -13, y: 68}
+        - {x: -18, y: 67}
+        - {x: -25, y: 60}
+        - {x: -25, y: -4}
+        - {x: 29, y: -4}
+        - {x: 31, y: -1}
+        - {x: 31, y: 45}
+        - {x: 27, y: 59}
+    - name: p_walk_front14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 654
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.057142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 66}
+        - {x: -20, y: 66}
+        - {x: -24, y: 65}
+        - {x: -24, y: -3}
+        - {x: -23, y: -4}
+        - {x: 29, y: -4}
+        - {x: 30, y: -3}
+        - {x: 30, y: 53}
+    - name: p_walk_front15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 659
+        width: 51
+        height: 65
+      alignment: 9
+      pivot: {x: 0.43137255, y: 0.12307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 57}
+        - {x: -22, y: 49}
+        - {x: -22, y: -4}
+        - {x: -18, y: -8}
+        - {x: 25, y: -8}
+        - {x: 27, y: -7}
+        - {x: 29, y: -5}
+        - {x: 29, y: 39}
+        - {x: 19, y: 57}
+    - name: p_walk_front16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 661
+        width: 49
+        height: 63
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 51}
+        - {x: -17, y: 51}
+        - {x: -21, y: 46}
+        - {x: -21, y: -7}
+        - {x: -17, y: -12}
+        - {x: 23, y: -12}
+        - {x: 28, y: -9}
+        - {x: 28, y: 18}
+        - {x: 24, y: 40}
+    - name: p_walk_front17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 654
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 63}
+        - {x: -24, y: -4}
+        - {x: -17, y: -7}
+        - {x: 11, y: -7}
+        - {x: 30, y: -1}
+        - {x: 30, y: 54}
+        - {x: 26, y: 63}
+    - name: p_walk_front18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 656
+        width: 54
+        height: 68
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 64}
+        - {x: -25, y: 53}
+        - {x: -25, y: -1}
+        - {x: -23, y: -4}
+        - {x: 29, y: -4}
+        - {x: 29, y: 61}
+        - {x: 21, y: 64}
+    - name: p_walk_side01
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 648
+        width: 49
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3265306, y: 0.013157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 70}
+        - {x: 30, y: 75}
+        - {x: -11, y: 75}
+        - {x: -16, y: 71}
+        - {x: -16, y: -1}
+        - {x: 25, y: -1}
+        - {x: 29, y: 6}
+        - {x: 28, y: 10}
+        - {x: 33, y: 38}
+    - name: p_walk_side02
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 649
+        width: 47
+        height: 75
+      alignment: 9
+      pivot: {x: 0.29787233, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 75}
+        - {x: -13, y: 63}
+        - {x: -14, y: 55}
+        - {x: -14, y: 8}
+        - {x: -10, y: 2}
+        - {x: -4, y: 0}
+        - {x: 25, y: 0}
+        - {x: 33, y: 5}
+        - {x: 33, y: 72}
+        - {x: 25, y: 75}
+    - name: p_walk_side03
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 651
+        width: 46
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3043478, y: -0.01369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 74}
+        - {x: -8, y: 74}
+        - {x: -14, y: 72}
+        - {x: -14, y: 1}
+        - {x: 31, y: 1}
+        - {x: 32, y: 2}
+        - {x: 32, y: 67}
+    - name: p_walk_side04
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 653
+        width: 44
+        height: 71
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 71}
+        - {x: -16, y: 61}
+        - {x: -16, y: 2}
+        - {x: -9, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 71}
+    - name: p_walk_side05
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 655
+        width: 43
+        height: 69
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 66}
+        - {x: -18, y: 60}
+        - {x: -18, y: 5}
+        - {x: -10, y: -3}
+        - {x: 20, y: -3}
+        - {x: 25, y: -1}
+        - {x: 25, y: 63}
+        - {x: 15, y: 66}
+    - name: p_walk_side06
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 660
+        width: 43
+        height: 64
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 58}
+        - {x: -19, y: 52}
+        - {x: -19, y: -6}
+        - {x: 24, y: -6}
+        - {x: 24, y: 52}
+        - {x: 12, y: 58}
+    - name: p_walk_side07
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 664
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 52}
+        - {x: -21, y: 37}
+        - {x: -21, y: 0}
+        - {x: -7, y: -8}
+        - {x: 20, y: -8}
+        - {x: 24, y: -7}
+        - {x: 25, y: -6}
+        - {x: 25, y: 39}
+        - {x: 23, y: 52}
+    - name: p_walk_side08
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 655
+        width: 53
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43396226, y: 0.014492754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 68}
+        - {x: -21, y: 51}
+        - {x: -23, y: 41}
+        - {x: -23, y: 13}
+        - {x: -4, y: -1}
+        - {x: 30, y: -1}
+        - {x: 30, y: 62}
+        - {x: 17, y: 68}
+    - name: p_walk_side09
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 652
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 72}
+        - {x: -22, y: 60}
+        - {x: -22, y: 7}
+        - {x: -6, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 72}
+    - name: p_walk_side10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 650
+        width: 54
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 74}
+        - {x: -21, y: 51}
+        - {x: -21, y: 2}
+        - {x: -15, y: 0}
+        - {x: 33, y: 0}
+        - {x: 33, y: 73}
+        - {x: 31, y: 74}
+    - name: p_walk_side11
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 648
+        width: 52
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3653846, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 76}
+        - {x: -19, y: 50}
+        - {x: -19, y: 8}
+        - {x: -8, y: 0}
+        - {x: 33, y: 0}
+        - {x: 33, y: 76}
+    - name: p_walk_side12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 570
+        width: 47
+        height: 76
+      alignment: 9
+      pivot: {x: 0.29787233, y: 0.013157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 75}
+        - {x: -14, y: 74}
+        - {x: -14, y: -1}
+        - {x: 32, y: -1}
+        - {x: 33, y: 6}
+        - {x: 33, y: 75}
+    - name: p_walk_side13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 570
+        width: 45
+        height: 76
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.039473683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 73}
+        - {x: -15, y: -3}
+        - {x: 30, y: -3}
+        - {x: 30, y: 68}
+        - {x: 20, y: 73}
+    - name: p_walk_side14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 571
+        width: 43
+        height: 75
+      alignment: 9
+      pivot: {x: 0.39534885, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 69}
+        - {x: -17, y: 65}
+        - {x: -17, y: -5}
+        - {x: -13, y: -6}
+        - {x: 26, y: -6}
+        - {x: 26, y: 65}
+        - {x: 20, y: 69}
+    - name: p_walk_side15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 576
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 58}
+        - {x: -19, y: 56}
+        - {x: -19, y: -12}
+        - {x: 23, y: -12}
+        - {x: 23, y: 58}
+    - name: p_walk_side16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 578
+        width: 43
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.22058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 53}
+        - {x: -21, y: 50}
+        - {x: -21, y: -12}
+        - {x: -4, y: -15}
+        - {x: 18, y: -15}
+        - {x: 22, y: -13}
+        - {x: 22, y: 49}
+        - {x: 19, y: 53}
+    - name: p_walk_side17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 571
+        width: 50
+        height: 75
+      alignment: 9
+      pivot: {x: 0.46, y: 0.10666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 67}
+        - {x: -23, y: 47}
+        - {x: -23, y: -4}
+        - {x: -14, y: -8}
+        - {x: 27, y: -8}
+        - {x: 27, y: 60}
+        - {x: 23, y: 67}
+    - name: p_walk_side18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 570
+        width: 52
+        height: 76
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 70}
+        - {x: -22, y: 42}
+        - {x: -22, y: 4}
+        - {x: -20, y: 2}
+        - {x: 0, y: -6}
+        - {x: 23, y: -6}
+        - {x: 30, y: -1}
+        - {x: 30, y: 69}
+        - {x: 28, y: 70}
+    - name: y_idle_back01
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 587
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 56}
+        - {x: -24, y: 52}
+        - {x: -24, y: -3}
+        - {x: 16, y: -3}
+        - {x: 24, y: 5}
+        - {x: 24, y: 48}
+        - {x: 14, y: 56}
+    - name: y_idle_back02
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 587
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 56}
+        - {x: -24, y: 51}
+        - {x: -24, y: 2}
+        - {x: -17, y: -3}
+        - {x: 12, y: -3}
+        - {x: 24, y: 1}
+        - {x: 24, y: 48}
+        - {x: 16, y: 56}
+    - name: y_idle_back03
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 587
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 0}
+        - {x: -22, y: -3}
+        - {x: 24, y: -3}
+        - {x: 24, y: 48}
+        - {x: 23, y: 56}
+        - {x: -23, y: 56}
+        - {x: -24, y: 55}
+    - name: y_idle_back04
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 587
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 56}
+        - {x: -24, y: 53}
+        - {x: -24, y: 4}
+        - {x: -20, y: -3}
+        - {x: 24, y: -3}
+        - {x: 24, y: 49}
+        - {x: 10, y: 56}
+    - name: y_idle_back05
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 587
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 56}
+        - {x: -17, y: 56}
+        - {x: -23, y: 43}
+        - {x: -24, y: 35}
+        - {x: -24, y: 5}
+        - {x: -14, y: -3}
+        - {x: 12, y: -3}
+        - {x: 24, y: 6}
+        - {x: 24, y: 37}
+        - {x: 23, y: 44}
+    - name: y_idle_back06
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 587
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: 6}
+        - {x: -11, y: -3}
+        - {x: 11, y: -3}
+        - {x: 24, y: 7}
+        - {x: 24, y: 51}
+        - {x: 15, y: 56}
+    - name: y_idle_back07
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 587
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 56}
+        - {x: -24, y: 47}
+        - {x: -24, y: 4}
+        - {x: -12, y: -3}
+        - {x: 16, y: -3}
+        - {x: 24, y: 6}
+        - {x: 24, y: 50}
+        - {x: 12, y: 56}
+    - name: y_idle_back08
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 588
+        width: 48
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 55}
+        - {x: -24, y: 43}
+        - {x: -24, y: 7}
+        - {x: -14, y: -3}
+        - {x: 14, y: -3}
+        - {x: 24, y: 6}
+        - {x: 24, y: 42}
+        - {x: 18, y: 55}
+    - name: y_idle_back09
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 588
+        width: 48
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 55}
+        - {x: -22, y: 46}
+        - {x: -24, y: 33}
+        - {x: -24, y: 7}
+        - {x: -14, y: -3}
+        - {x: 14, y: -3}
+        - {x: 24, y: -1}
+        - {x: 24, y: 50}
+        - {x: 14, y: 55}
+    - name: y_idle_back10
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 588
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 55}
+        - {x: -23, y: -2}
+        - {x: -18, y: -3}
+        - {x: 19, y: -3}
+        - {x: 24, y: 2}
+        - {x: 24, y: 50}
+        - {x: 22, y: 55}
+    - name: y_idle_back11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 588
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 55}
+        - {x: -23, y: -2}
+        - {x: -18, y: -3}
+        - {x: 19, y: -3}
+        - {x: 24, y: 2}
+        - {x: 24, y: 50}
+        - {x: 22, y: 55}
+    - name: y_idle_back12
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 588
+        width: 48
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 55}
+        - {x: -22, y: 46}
+        - {x: -24, y: 33}
+        - {x: -24, y: 7}
+        - {x: -14, y: -3}
+        - {x: 14, y: -3}
+        - {x: 24, y: -1}
+        - {x: 24, y: 50}
+        - {x: 14, y: 55}
+    - name: y_idle_back13
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 588
+        width: 48
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 55}
+        - {x: -24, y: 43}
+        - {x: -24, y: 7}
+        - {x: -14, y: -3}
+        - {x: 14, y: -3}
+        - {x: 24, y: 6}
+        - {x: 24, y: 42}
+        - {x: 18, y: 55}
+    - name: y_idle_back14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 509
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 56}
+        - {x: -24, y: 49}
+        - {x: -24, y: 1}
+        - {x: -18, y: -3}
+        - {x: 24, y: -3}
+        - {x: 24, y: 48}
+        - {x: 12, y: 56}
+    - name: y_idle_back15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 509
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: 6}
+        - {x: -11, y: -3}
+        - {x: 11, y: -3}
+        - {x: 24, y: 7}
+        - {x: 24, y: 51}
+        - {x: 15, y: 56}
+    - name: y_idle_back16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 509
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 56}
+        - {x: -17, y: 56}
+        - {x: -23, y: 43}
+        - {x: -24, y: 35}
+        - {x: -24, y: 5}
+        - {x: -14, y: -3}
+        - {x: 12, y: -3}
+        - {x: 24, y: 6}
+        - {x: 24, y: 37}
+        - {x: 23, y: 44}
+    - name: y_idle_back17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 509
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 46}
+        - {x: 12, y: 56}
+        - {x: -11, y: 56}
+        - {x: -24, y: 52}
+        - {x: -24, y: 4}
+        - {x: -15, y: -3}
+        - {x: 15, y: -3}
+        - {x: 23, y: -1}
+        - {x: 24, y: 2}
+        - {x: 24, y: 34}
+        - {x: 22, y: 43}
+    - name: y_idle_back18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 509
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 0}
+        - {x: -22, y: -3}
+        - {x: 24, y: -3}
+        - {x: 24, y: 48}
+        - {x: 23, y: 56}
+        - {x: -23, y: 56}
+        - {x: -24, y: 55}
+    - name: y_idle_front01
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 506
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -1}
+        - {x: -20, y: -5}
+        - {x: 18, y: -5}
+        - {x: 24, y: -3}
+        - {x: 24, y: 49}
+        - {x: 21, y: 57}
+        - {x: -21, y: 57}
+        - {x: -24, y: 46}
+    - name: y_idle_front02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 506
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -4}
+        - {x: -23, y: -5}
+        - {x: 19, y: -5}
+        - {x: 24, y: -3}
+        - {x: 24, y: 49}
+        - {x: 21, y: 57}
+        - {x: -21, y: 57}
+        - {x: -24, y: 46}
+    - name: y_idle_front03
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 506
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 57}
+        - {x: -24, y: -5}
+        - {x: 14, y: -5}
+        - {x: 24, y: 7}
+        - {x: 24, y: 53}
+        - {x: 15, y: 57}
+    - name: y_idle_front04
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 506
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 57}
+        - {x: -20, y: 57}
+        - {x: -24, y: 45}
+        - {x: -24, y: 3}
+        - {x: -15, y: -5}
+        - {x: 10, y: -5}
+        - {x: 24, y: 9}
+        - {x: 24, y: 29}
+        - {x: 23, y: 46}
+    - name: y_idle_front05
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 506
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 57}
+        - {x: -24, y: 50}
+        - {x: -24, y: 0}
+        - {x: -17, y: -5}
+        - {x: 14, y: -5}
+        - {x: 20, y: -3}
+        - {x: 24, y: 1}
+        - {x: 24, y: 41}
+        - {x: 20, y: 57}
+    - name: y_idle_front06
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 506
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 57}
+        - {x: -24, y: 42}
+        - {x: -24, y: 1}
+        - {x: -12, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 57}
+    - name: y_idle_front07
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 507
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 56}
+        - {x: -24, y: 46}
+        - {x: -24, y: 7}
+        - {x: -15, y: -5}
+        - {x: 16, y: -5}
+        - {x: 22, y: -3}
+        - {x: 24, y: 3}
+        - {x: 24, y: 53}
+        - {x: 15, y: 56}
+    - name: y_idle_front08
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 507
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 56}
+        - {x: -24, y: 44}
+        - {x: -24, y: 0}
+        - {x: -14, y: -5}
+        - {x: 12, y: -5}
+        - {x: 24, y: 6}
+        - {x: 24, y: 52}
+        - {x: 19, y: 56}
+    - name: y_idle_front09
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 507
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: -2}
+        - {x: -21, y: -5}
+        - {x: 20, y: -5}
+        - {x: 24, y: -2}
+        - {x: 24, y: 51}
+        - {x: 20, y: 56}
+    - name: y_idle_front10
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 507
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 56}
+        - {x: -24, y: 44}
+        - {x: -24, y: -1}
+        - {x: -19, y: -5}
+        - {x: 12, y: -5}
+        - {x: 24, y: -2}
+        - {x: 24, y: 46}
+        - {x: 17, y: 56}
+    - name: y_idle_front11
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 507
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 56}
+        - {x: -24, y: 44}
+        - {x: -24, y: -1}
+        - {x: -19, y: -5}
+        - {x: 12, y: -5}
+        - {x: 24, y: -2}
+        - {x: 24, y: 46}
+        - {x: 17, y: 56}
+    - name: y_idle_front12
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 507
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56}
+        - {x: -24, y: 45}
+        - {x: -24, y: -2}
+        - {x: -21, y: -5}
+        - {x: 20, y: -5}
+        - {x: 24, y: -2}
+        - {x: 24, y: 51}
+        - {x: 20, y: 56}
+    - name: y_idle_front13
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 507
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 56}
+        - {x: -24, y: 46}
+        - {x: -24, y: 3}
+        - {x: -22, y: -5}
+        - {x: 17, y: -5}
+        - {x: 24, y: 4}
+        - {x: 24, y: 52}
+        - {x: 16, y: 56}
+    - name: y_idle_front14
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 507
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 56}
+        - {x: -24, y: 53}
+        - {x: -24, y: 6}
+        - {x: -17, y: -5}
+        - {x: 19, y: -5}
+        - {x: 23, y: -4}
+        - {x: 24, y: 0}
+        - {x: 24, y: 52}
+        - {x: 16, y: 56}
+    - name: y_idle_front15
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 506
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 57}
+        - {x: -24, y: 54}
+        - {x: -24, y: 1}
+        - {x: -11, y: -5}
+        - {x: 17, y: -5}
+        - {x: 24, y: 2}
+        - {x: 24, y: 49}
+        - {x: 18, y: 57}
+    - name: y_idle_front16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 57}
+        - {x: -24, y: 50}
+        - {x: -24, y: 0}
+        - {x: -17, y: -5}
+        - {x: 14, y: -5}
+        - {x: 20, y: -3}
+        - {x: 24, y: 1}
+        - {x: 24, y: 41}
+        - {x: 20, y: 57}
+    - name: y_idle_front17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 442
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 57}
+        - {x: -20, y: 57}
+        - {x: -24, y: 45}
+        - {x: -24, y: 3}
+        - {x: -15, y: -5}
+        - {x: 10, y: -5}
+        - {x: 24, y: 9}
+        - {x: 24, y: 29}
+        - {x: 23, y: 46}
+    - name: y_idle_front18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 442
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 57}
+        - {x: -24, y: -5}
+        - {x: 14, y: -5}
+        - {x: 24, y: 7}
+        - {x: 24, y: 53}
+        - {x: 15, y: 57}
+    - name: y_idle_side01
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 436
+        width: 39
+        height: 68
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 57}
+        - {x: -21, y: 56}
+        - {x: -21, y: -3}
+        - {x: -8, y: -11}
+        - {x: 11, y: -11}
+        - {x: 18, y: 1}
+        - {x: 18, y: 54}
+        - {x: 13, y: 57}
+    - name: y_idle_side02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 39
+        height: 68
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 57}
+        - {x: -21, y: 8}
+        - {x: -12, y: -11}
+        - {x: 7, y: -11}
+        - {x: 11, y: -8}
+        - {x: 18, y: 14}
+        - {x: 18, y: 54}
+        - {x: 11, y: 57}
+    - name: y_idle_side03
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 436
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 57}
+        - {x: -21, y: 51}
+        - {x: -21, y: 4}
+        - {x: -11, y: -11}
+        - {x: 8, y: -11}
+        - {x: 16, y: -8}
+        - {x: 19, y: 12}
+        - {x: 19, y: 51}
+        - {x: 11, y: 57}
+    - name: y_idle_side04
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 436
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 57}
+        - {x: -21, y: 54}
+        - {x: -21, y: 20}
+        - {x: -18, y: 2}
+        - {x: -11, y: -8}
+        - {x: -8, y: -11}
+        - {x: 6, y: -11}
+        - {x: 19, y: 5}
+        - {x: 19, y: 49}
+        - {x: 13, y: 57}
+    - name: y_idle_side05
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 436
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 57}
+        - {x: -21, y: 11}
+        - {x: -12, y: -7}
+        - {x: -7, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: -8}
+        - {x: 19, y: 16}
+        - {x: 19, y: 52}
+        - {x: 15, y: 57}
+    - name: y_idle_side06
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 436
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 57}
+        - {x: -20, y: 55}
+        - {x: -21, y: 53}
+        - {x: -21, y: 5}
+        - {x: -15, y: -11}
+        - {x: 6, y: -11}
+        - {x: 19, y: 3}
+        - {x: 19, y: 50}
+        - {x: 13, y: 57}
+    - name: y_idle_side07
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 437
+        width: 40
+        height: 67
+      alignment: 9
+      pivot: {x: 0.525, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 56}
+        - {x: -21, y: 54}
+        - {x: -21, y: 12}
+        - {x: -15, y: -9}
+        - {x: -14, y: -11}
+        - {x: 8, y: -11}
+        - {x: 19, y: -2}
+        - {x: 19, y: 54}
+        - {x: 17, y: 56}
+    - name: y_idle_side08
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 437
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 56}
+        - {x: -17, y: 56}
+        - {x: -20, y: 51}
+        - {x: -20, y: -3}
+        - {x: -8, y: -11}
+        - {x: 11, y: -11}
+        - {x: 14, y: -8}
+        - {x: 19, y: 14}
+        - {x: 19, y: 53}
+    - name: y_idle_side09
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 437
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 56}
+        - {x: -15, y: 56}
+        - {x: -20, y: 49}
+        - {x: -20, y: -2}
+        - {x: -7, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -7}
+        - {x: 19, y: 19}
+        - {x: 19, y: 50}
+    - name: y_idle_side10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 437
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56}
+        - {x: -20, y: 55}
+        - {x: -20, y: 0}
+        - {x: -16, y: -11}
+        - {x: 7, y: -11}
+        - {x: 19, y: 5}
+        - {x: 19, y: 53}
+        - {x: 17, y: 56}
+    - name: y_idle_side11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 437
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56}
+        - {x: -20, y: 55}
+        - {x: -20, y: 0}
+        - {x: -16, y: -11}
+        - {x: 7, y: -11}
+        - {x: 19, y: 5}
+        - {x: 19, y: 53}
+        - {x: 17, y: 56}
+    - name: y_idle_side12
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 437
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 56}
+        - {x: -15, y: 56}
+        - {x: -20, y: 49}
+        - {x: -20, y: -2}
+        - {x: -7, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -7}
+        - {x: 19, y: 19}
+        - {x: 19, y: 50}
+    - name: y_idle_side13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 437
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 56}
+        - {x: -17, y: 56}
+        - {x: -20, y: 51}
+        - {x: -20, y: -3}
+        - {x: -8, y: -11}
+        - {x: 11, y: -11}
+        - {x: 14, y: -8}
+        - {x: 19, y: 14}
+        - {x: 19, y: 53}
+    - name: y_idle_side14
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 437
+        width: 40
+        height: 67
+      alignment: 9
+      pivot: {x: 0.525, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 56}
+        - {x: -21, y: 49}
+        - {x: -21, y: 11}
+        - {x: -12, y: -10}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 19, y: 12}
+        - {x: 19, y: 53}
+        - {x: 13, y: 56}
+    - name: y_idle_side15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 436
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 57}
+        - {x: -20, y: 55}
+        - {x: -21, y: 53}
+        - {x: -21, y: 5}
+        - {x: -15, y: -11}
+        - {x: 6, y: -11}
+        - {x: 19, y: 3}
+        - {x: 19, y: 50}
+        - {x: 13, y: 57}
+    - name: y_idle_side16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 436
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 57}
+        - {x: -21, y: 11}
+        - {x: -12, y: -7}
+        - {x: -7, y: -11}
+        - {x: 5, y: -11}
+        - {x: 12, y: -8}
+        - {x: 19, y: 16}
+        - {x: 19, y: 52}
+        - {x: 15, y: 57}
+    - name: y_idle_side17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 436
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 57}
+        - {x: -21, y: 54}
+        - {x: -21, y: 20}
+        - {x: -18, y: 2}
+        - {x: -11, y: -8}
+        - {x: -8, y: -11}
+        - {x: 6, y: -11}
+        - {x: 19, y: 5}
+        - {x: 19, y: 49}
+        - {x: 13, y: 57}
+    - name: y_idle_side18
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 436
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.525, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 57}
+        - {x: -21, y: 51}
+        - {x: -21, y: 4}
+        - {x: -11, y: -11}
+        - {x: 8, y: -11}
+        - {x: 16, y: -8}
+        - {x: 19, y: 12}
+        - {x: 19, y: 51}
+        - {x: 11, y: 57}
+    - name: y_walk_back01
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 427
+        width: 47
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4893617, y: -0.038961038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 80}
+        - {x: -23, y: 72}
+        - {x: -23, y: 22}
+        - {x: -14, y: 6}
+        - {x: -12, y: 3}
+        - {x: 9, y: 3}
+        - {x: 15, y: 5}
+        - {x: 24, y: 24}
+        - {x: 24, y: 74}
+        - {x: 14, y: 80}
+    - name: y_walk_back02
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 427
+        width: 47
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4893617, y: -0.038961038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 80}
+        - {x: -23, y: 76}
+        - {x: -23, y: 24}
+        - {x: -15, y: 3}
+        - {x: 12, y: 3}
+        - {x: 24, y: 11}
+        - {x: 24, y: 74}
+        - {x: 22, y: 80}
+    - name: y_walk_back03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 48
+        height: 78
+      alignment: 9
+      pivot: {x: 0.47916666, y: -0.012820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 79}
+        - {x: -23, y: 69}
+        - {x: -23, y: 15}
+        - {x: -10, y: 1}
+        - {x: 25, y: 1}
+        - {x: 25, y: 78}
+        - {x: 20, y: 79}
+    - name: y_walk_back04
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 347
+        width: 50
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 75}
+        - {x: -23, y: 69}
+        - {x: -23, y: 3}
+        - {x: -17, y: -3}
+        - {x: 13, y: -3}
+        - {x: 27, y: 12}
+        - {x: 27, y: 55}
+        - {x: 26, y: 60}
+        - {x: 17, y: 75}
+    - name: y_walk_back05
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 349
+        width: 50
+        height: 76
+      alignment: 9
+      pivot: {x: 0.46, y: 0.118421055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 67}
+        - {x: -19, y: 67}
+        - {x: -23, y: 59}
+        - {x: -23, y: 7}
+        - {x: -8, y: -9}
+        - {x: 15, y: -9}
+        - {x: 27, y: 11}
+        - {x: 27, y: 47}
+        - {x: 26, y: 50}
+    - name: y_walk_back06
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 352
+        width: 49
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0.20547946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 58}
+        - {x: -22, y: -1}
+        - {x: -1, y: -15}
+        - {x: 26, y: -15}
+        - {x: 27, y: -8}
+        - {x: 27, y: 58}
+    - name: y_walk_back07
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 354
+        width: 46
+        height: 71
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.23943663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 54}
+        - {x: -15, y: 54}
+        - {x: -21, y: 53}
+        - {x: -21, y: 4}
+        - {x: -7, y: -17}
+        - {x: 15, y: -17}
+        - {x: 25, y: 3}
+        - {x: 25, y: 34}
+        - {x: 22, y: 43}
+    - name: y_walk_back08
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 348
+        width: 47
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.064935066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 72}
+        - {x: -22, y: 68}
+        - {x: -22, y: 10}
+        - {x: -8, y: -5}
+        - {x: 24, y: -5}
+        - {x: 25, y: 2}
+        - {x: 25, y: 70}
+        - {x: 17, y: 72}
+    - name: y_walk_back09
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 345
+        width: 47
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.0375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 77}
+        - {x: -23, y: 69}
+        - {x: -23, y: 26}
+        - {x: -20, y: 10}
+        - {x: -5, y: -3}
+        - {x: 13, y: -3}
+        - {x: 18, y: -1}
+        - {x: 24, y: 23}
+        - {x: 24, y: 65}
+        - {x: 14, y: 77}
+    - name: y_walk_back10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 344
+        width: 46
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.024691358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 79}
+        - {x: -23, y: 78}
+        - {x: -23, y: 10}
+        - {x: -4, y: -2}
+        - {x: 15, y: -2}
+        - {x: 23, y: 14}
+        - {x: 23, y: 74}
+        - {x: 13, y: 79}
+    - name: y_walk_back11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 344
+        width: 47
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 81}
+        - {x: -24, y: 13}
+        - {x: -16, y: 0}
+        - {x: 21, y: 0}
+        - {x: 23, y: 10}
+        - {x: 23, y: 81}
+    - name: y_walk_back12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 346
+        width: 48
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5208333, y: -0.012658228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 80}
+        - {x: -25, y: 73}
+        - {x: -25, y: 20}
+        - {x: -11, y: 1}
+        - {x: 13, y: 1}
+        - {x: 23, y: 24}
+        - {x: 23, y: 75}
+        - {x: 13, y: 80}
+    - name: y_walk_back13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 346
+        width: 49
+        height: 79
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.025316456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 77}
+        - {x: -24, y: 68}
+        - {x: -26, y: 60}
+        - {x: -26, y: 25}
+        - {x: -11, y: -2}
+        - {x: 10, y: -2}
+        - {x: 23, y: 14}
+        - {x: 23, y: 72}
+        - {x: 14, y: 77}
+    - name: y_walk_back14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 349
+        width: 50
+        height: 76
+      alignment: 9
+      pivot: {x: 0.54, y: 0.065789476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 71}
+        - {x: -27, y: 64}
+        - {x: -27, y: 20}
+        - {x: -15, y: -5}
+        - {x: 6, y: -5}
+        - {x: 17, y: 0}
+        - {x: 23, y: 23}
+        - {x: 23, y: 66}
+        - {x: 18, y: 71}
+    - name: y_walk_back15
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 354
+        width: 48
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.18309858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 58}
+        - {x: -26, y: 55}
+        - {x: -26, y: 9}
+        - {x: -14, y: -13}
+        - {x: 14, y: -13}
+        - {x: 22, y: 6}
+        - {x: 22, y: 58}
+    - name: y_walk_back16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 356
+        width: 46
+        height: 69
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.2173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 54}
+        - {x: -25, y: 42}
+        - {x: -25, y: 0}
+        - {x: -17, y: -15}
+        - {x: 3, y: -15}
+        - {x: 21, y: -2}
+        - {x: 21, y: 47}
+        - {x: 12, y: 54}
+    - name: y_walk_back17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 348
+        width: 49
+        height: 77
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 70}
+        - {x: -26, y: 69}
+        - {x: -26, y: -7}
+        - {x: 4, y: -7}
+        - {x: 23, y: 17}
+        - {x: 23, y: 59}
+        - {x: 14, y: 70}
+    - name: y_walk_back18
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 350
+        width: 49
+        height: 75
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.013333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 74}
+        - {x: -14, y: 74}
+        - {x: -26, y: 69}
+        - {x: -26, y: 8}
+        - {x: -23, y: -1}
+        - {x: 8, y: -1}
+        - {x: 23, y: 7}
+        - {x: 23, y: 73}
+    - name: y_walk_front01
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 355
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 68}
+        - {x: -27, y: 64}
+        - {x: -27, y: 1}
+        - {x: -23, y: -2}
+        - {x: 27, y: -2}
+        - {x: 27, y: 59}
+        - {x: 20, y: 68}
+    - name: y_walk_front02
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 354
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5090909, y: 0.028169014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -2}
+        - {x: 27, y: -2}
+        - {x: 27, y: 69}
+        - {x: -14, y: 69}
+        - {x: -28, y: 59}
+    - name: y_walk_front03
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 355
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5272727, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 68}
+        - {x: -29, y: 61}
+        - {x: -29, y: -2}
+        - {x: 26, y: -2}
+        - {x: 26, y: 68}
+    - name: y_walk_front04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.042857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.999998, y: 67}
+        - {x: -28.999998, y: 59}
+        - {x: -28.999998, y: 0}
+        - {x: -25.999998, y: -3}
+        - {x: -18.999998, y: -1}
+        - {x: -9.999998, y: -3}
+        - {x: 20.000002, y: -3}
+        - {x: 25.000002, y: 1}
+        - {x: 25.000002, y: 58}
+        - {x: 14.000002, y: 67}
+    - name: y_walk_front05
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 275
+        width: 53
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.05970149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 63}
+        - {x: -29, y: 48}
+        - {x: -29, y: -4}
+        - {x: 21, y: -4}
+        - {x: 24, y: 3}
+        - {x: 24, y: 55}
+        - {x: 17, y: 63}
+    - name: y_walk_front06
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 276
+        width: 50
+        height: 66
+      alignment: 9
+      pivot: {x: 0.56, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 57}
+        - {x: -28, y: -9}
+        - {x: 22, y: -9}
+        - {x: 22, y: 57}
+    - name: y_walk_front07
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 281
+        width: 49
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5510204, y: 0.18032786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 50}
+        - {x: -27, y: 32}
+        - {x: -27, y: -10}
+        - {x: -26, y: -11}
+        - {x: 21, y: -11}
+        - {x: 22, y: -10}
+        - {x: 22, y: 50}
+    - name: y_walk_front08
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 273
+        width: 54
+        height: 69
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.08695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 63}
+        - {x: -27, y: 53}
+        - {x: -29, y: 33}
+        - {x: -29, y: -3}
+        - {x: -17, y: -6}
+        - {x: 25, y: -6}
+        - {x: 25, y: 56}
+        - {x: 19, y: 63}
+    - name: y_walk_front09
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 270
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 66}
+        - {x: -28, y: 64}
+        - {x: -28, y: -6}
+        - {x: 26, y: -6}
+        - {x: 26, y: 60}
+        - {x: 18, y: 66}
+    - name: y_walk_front10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 269
+        width: 55
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.06849315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 68}
+        - {x: -27, y: 58}
+        - {x: -27, y: -5}
+        - {x: 28, y: -5}
+        - {x: 28, y: 66}
+        - {x: 24, y: 68}
+    - name: y_walk_front11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 268
+        width: 56
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.067567565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 69}
+        - {x: -27, y: 68}
+        - {x: -27, y: -5}
+        - {x: 29, y: -5}
+        - {x: 29, y: 69}
+    - name: y_walk_front12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 269
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.05479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 69}
+        - {x: -26, y: -4}
+        - {x: 30, y: -4}
+        - {x: 30, y: 64}
+        - {x: 26, y: 69}
+    - name: y_walk_front13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 270
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.44642857, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -4}
+        - {x: 31, y: -4}
+        - {x: 31, y: 30}
+        - {x: 27, y: 59}
+        - {x: 21, y: 68}
+        - {x: -16, y: 68}
+        - {x: -25, y: 63}
+    - name: y_walk_front14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 272
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.057142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 66}
+        - {x: -20, y: 66}
+        - {x: -24, y: 65}
+        - {x: -24, y: -2}
+        - {x: -21, y: -4}
+        - {x: 30, y: -4}
+        - {x: 30, y: 53}
+    - name: y_walk_front15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 277
+        width: 51
+        height: 65
+      alignment: 9
+      pivot: {x: 0.43137255, y: 0.12307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 57}
+        - {x: -22, y: 49}
+        - {x: -22, y: -4}
+        - {x: -18, y: -8}
+        - {x: 29, y: -8}
+        - {x: 29, y: 54}
+        - {x: 23, y: 57}
+    - name: y_walk_front16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 279
+        width: 49
+        height: 63
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 51}
+        - {x: -21, y: -12}
+        - {x: 28, y: -12}
+        - {x: 28, y: 51}
+    - name: y_walk_front17
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 272
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 55}
+        - {x: 12, y: 63}
+        - {x: -22, y: 63}
+        - {x: -24, y: 62}
+        - {x: -24, y: -7}
+        - {x: 8, y: -7}
+        - {x: 18, y: -5}
+        - {x: 29, y: -1}
+        - {x: 30, y: 0}
+    - name: y_walk_front18
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 274
+        width: 54
+        height: 68
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 64}
+        - {x: -25, y: 53}
+        - {x: -25, y: -1}
+        - {x: -23, y: -4}
+        - {x: 29, y: -4}
+        - {x: 29, y: 61}
+        - {x: 21, y: 64}
+    - name: y_walk_side01
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 266
+        width: 49
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3265306, y: 0.013157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 75}
+        - {x: -9, y: 75}
+        - {x: -15, y: 63}
+        - {x: -16, y: 52}
+        - {x: -16, y: 4}
+        - {x: 3, y: -1}
+        - {x: 23, y: -1}
+        - {x: 30, y: 6}
+        - {x: 33, y: 28}
+        - {x: 33, y: 70}
+    - name: y_walk_side02
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 267
+        width: 47
+        height: 75
+      alignment: 9
+      pivot: {x: 0.29787233, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 75}
+        - {x: -13, y: 63}
+        - {x: -14, y: 55}
+        - {x: -14, y: 8}
+        - {x: -10, y: 2}
+        - {x: -4, y: 0}
+        - {x: 25, y: 0}
+        - {x: 33, y: 5}
+        - {x: 33, y: 72}
+        - {x: 25, y: 75}
+    - name: y_walk_side03
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 269
+        width: 46
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3043478, y: -0.01369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 74}
+        - {x: -8, y: 74}
+        - {x: -14, y: 72}
+        - {x: -14, y: 1}
+        - {x: 31, y: 1}
+        - {x: 32, y: 2}
+        - {x: 32, y: 67}
+    - name: y_walk_side04
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 271
+        width: 44
+        height: 71
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 71}
+        - {x: -16, y: 63}
+        - {x: -16, y: 7}
+        - {x: -13, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 68}
+        - {x: 22, y: 71}
+    - name: y_walk_side05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 43
+        height: 69
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 66}
+        - {x: -18, y: 59}
+        - {x: -18, y: 7}
+        - {x: -4, y: -3}
+        - {x: 16, y: -3}
+        - {x: 22, y: -1}
+        - {x: 25, y: 1}
+        - {x: 25, y: 61}
+        - {x: 13, y: 66}
+    - name: y_walk_side06
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 200
+        width: 43
+        height: 64
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 58}
+        - {x: -19, y: 52}
+        - {x: -19, y: -6}
+        - {x: 24, y: -6}
+        - {x: 24, y: 52}
+        - {x: 12, y: 58}
+    - name: y_walk_side07
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 204
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 52}
+        - {x: -21, y: 37}
+        - {x: -21, y: 0}
+        - {x: -7, y: -8}
+        - {x: 20, y: -8}
+        - {x: 24, y: -7}
+        - {x: 25, y: -6}
+        - {x: 25, y: 39}
+        - {x: 23, y: 52}
+    - name: y_walk_side08
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 195
+        width: 53
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43396226, y: 0.014492754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 68}
+        - {x: -21, y: 51}
+        - {x: -23, y: 41}
+        - {x: -23, y: 13}
+        - {x: -4, y: -1}
+        - {x: 30, y: -1}
+        - {x: 30, y: 64}
+        - {x: 24, y: 68}
+    - name: y_walk_side09
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 72}
+        - {x: -22, y: 60}
+        - {x: -22, y: 7}
+        - {x: -6, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 72}
+    - name: y_walk_side10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 190
+        width: 54
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 74}
+        - {x: -21, y: 51}
+        - {x: -21, y: 2}
+        - {x: -15, y: 0}
+        - {x: 33, y: 0}
+        - {x: 33, y: 73}
+        - {x: 31, y: 74}
+    - name: y_walk_side11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 188
+        width: 52
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3653846, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 76}
+        - {x: -19, y: 50}
+        - {x: -19, y: 8}
+        - {x: -8, y: 0}
+        - {x: 33, y: 0}
+        - {x: 33, y: 76}
+    - name: y_walk_side12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 188
+        width: 47
+        height: 76
+      alignment: 9
+      pivot: {x: 0.29787233, y: 0.013157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 75}
+        - {x: -14, y: 74}
+        - {x: -14, y: -1}
+        - {x: 32, y: -1}
+        - {x: 33, y: 6}
+        - {x: 33, y: 75}
+    - name: y_walk_side13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 188
+        width: 45
+        height: 76
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.039473683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 73}
+        - {x: -15, y: -3}
+        - {x: 30, y: -3}
+        - {x: 30, y: 67}
+        - {x: 20, y: 73}
+    - name: y_walk_side14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 189
+        width: 43
+        height: 75
+      alignment: 9
+      pivot: {x: 0.39534885, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 69}
+        - {x: -17, y: 65}
+        - {x: -17, y: -5}
+        - {x: -13, y: -6}
+        - {x: 26, y: -6}
+        - {x: 26, y: 65}
+        - {x: 20, y: 69}
+    - name: y_walk_side15
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 194
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 58}
+        - {x: -19, y: -12}
+        - {x: 23, y: -12}
+        - {x: 23, y: 41}
+        - {x: 20, y: 58}
+    - name: y_walk_side16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 196
+        width: 43
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.22058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 53}
+        - {x: -17, y: 44}
+        - {x: -21, y: 30}
+        - {x: -21, y: -10}
+        - {x: -10, y: -15}
+        - {x: 22, y: -15}
+        - {x: 22, y: 45}
+        - {x: 13, y: 53}
+    - name: y_walk_side17
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 189
+        width: 50
+        height: 75
+      alignment: 9
+      pivot: {x: 0.46, y: 0.10666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 67}
+        - {x: -23, y: 47}
+        - {x: -23, y: -4}
+        - {x: -14, y: -8}
+        - {x: 27, y: -8}
+        - {x: 27, y: 60}
+        - {x: 23, y: 67}
+    - name: y_walk_side18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 188
+        width: 51
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 70}
+        - {x: -5, y: 69}
+        - {x: -16, y: 55}
+        - {x: -21, y: 38}
+        - {x: -21, y: 2}
+        - {x: -3, y: -6}
+        - {x: 24, y: -6}
+        - {x: 26, y: -4}
+        - {x: 29, y: 9}
+        - {x: 30, y: 14}
+        - {x: 30, y: 70}
+    outline: []
+  spritePackingTag: Astronauts
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
