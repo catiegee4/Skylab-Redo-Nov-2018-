@@ -21,6 +21,7 @@ public class ChangeLevel : NetworkBehaviour
 		if (other.CompareTag("Player"))
 		{
 			PlayerCount++;
+            Debug.Log("OnTriggerEnter : Player count increased");
 		}
 	}
 
@@ -29,8 +30,9 @@ public class ChangeLevel : NetworkBehaviour
 		if (other.CompareTag("Player"))
 		{
 			PlayerCount--;
-		}
-	}
+            Debug.Log("OnTriggerEnter : Player count decreased");
+        }
+    }
 
 	private void Update()
 	{
